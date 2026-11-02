@@ -24,7 +24,7 @@ The typed German death notice on Arthur memoir p.20 was also read, but may warra
 - Family emigration was **November 1936** after **1933 planning and a September 1933 exploratory trip** (memoir p.17).
 - Neither the letter cover nor the visually checked May/June text establishes Arthur as the recipient. Arthur is referred to as "Dad" and seems to have been in Jerusalem with Käte (letters pp.1–2, 35). **Exact addressees unresolved.**
 - The house photo in [[Shaar Hefer]] is captioned **1950** in Arthur's memoir p.18 and **1951** in the letter compilation p.35.
-- The 1957 death notice mentions **BRIGITTE CLAYTON**, whereas the 2006 translator credit uses **Brigitte Paterson**; treat names as an unresolved identity/surname question until further evidence (memoir p.20).
+- The 1957 death notice names **BRIGITTE CLAYTON**; the English memoir credits **Brigitte Paterson** in 2006. The letters' 2006 colophon explicitly names **Brigitte Lazarus–Clayton–Paterson**, connecting the surnames (memoir p.20; letters p.36). Dates of name changes remain unknown.
 
 ## Interpretive rules
 
