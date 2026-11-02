@@ -1,6 +1,8 @@
 # Arthur Lazarus — Memoir of My Life
 
-> **RAW MACHINE OCR — NOT VERIFIED.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+> **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+
+Verified main text: PDF pages **2–3** (cover to be reviewed separately). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
 
 Language: English. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -18,84 +20,84 @@ ARTHUR LAZARUS
 
 ## PDF page 2
 
-Stargard, Pomerania ~ a District Town of approximately 30,000 inhabitants
-‘and, since the end of the Second World War, once more ceded to Poland —
-was my place of birth. By the Ina, alittle river running into the Dammschen
+Stargard, Pomerania – a District Town of approximately 30,000 inhabitants
+and, since the end of the Second World War, once more ceded to Poland –
+was my place of birth. By the Ina, a little river running into the Dammschen
 Lake, the town boasted medieval walls with iron gate and churches in the
-Gothic style, all of which caused it to be called "the Pomeranian Nuemberg’.
+Gothic style, all of which caused it to be called "the Pomeranian Nuernberg".
 
-‘Bom in 1886, my childhood and schoo! years fll into the last decade ofthe
-19" century. Looking back | have to say that those good old days’ were
-barely touched by the imminent 20" century. The sleepy, musty atmosphere
+Born in 1886, my childhood and school years fell into the last decade of the
+19th century. Looking back I have to say that 'those good old days' were
+barely touched by the imminent 20th century. The sleepy, musty atmosphere
 of that era was reflected in the people. Several decades of peace under the
-Hohenzollen* and fertile land producing frst rate foodstuf, caused the people
+Hohenzollen* and fertile land producing first rate foodstuff, caused the people
 of the region to be lethargic and unresponsive to the progress of the world.
-Only reluctantly did they partake in the achievements of civization
+Only reluctantly did they partake in the achievements of civilization.
 
-* the rulers of Prussia, Northem Germany
+* the rulers of Prussia, Northern Germany
 
-oe
-
-‘ge 0 Sie rt tse, a Lagan Maen
-
-pr al
-i i
+[Image: copy of Arthur's birth certificate]
 
 Copy of birth certificate of Arthur issued on 4.12.1905
 
 Stargard at that time was home to 125 Jewish families, about 500 souls. This
-‘community was assimilated in as much as it shared the comfort and lack of
-‘enterprise of the people among whom they lived. These characteristics may
+community was assimilated in as much as it shared the comfort and lack of
+enterprise of the people among whom they lived. These characteristics may
 also have been due to the predominantly agricultural nature of the province
-‘which made for conservative attitudes.
+which made for conservative attitudes.
 
-The Royal Gymnasium (High School) attended by both my brothers and | and
+The Royal Gymnasium (High School) attended by both my brothers and I and
 most of the sons of the town's Jews, was catering for the sons of "gentlemen
 farmers", landowners, the sons of senior civil servants and officers. The
 curriculum of the 1890's had been largely unchanged since the seventies of
-that century. Apart from a few middle-aged teachers who were more or less.
+that century. Apart from a few middle-aged teachers who were more or less
 modern, the teaching staff consisted of old and ancient professors of a dead
 
-1
+[Printed page number: 1]
+
+**Verification:** Main English text and caption visually checked against PDF page 2. Embedded birth certificate not independently transcribed.
 
 ---
 
 ## PDF page 3
 
-‘Age. Nonetheless a breath of liberal humanism blew through the
-establishment which tolerated neither racism nor anti-Semitism, However,
-socially these were noticeable under the surface,
+Age. Nonetheless a breath of liberal humanism blew through the
+establishment which tolerated neither racism nor anti-Semitism. However,
+socially these were noticeable under the surface.
 
-My father arrived in 1879 from Birmingham, England, in order to mary my
-‘mother in Stargard. He was bom in Vilna, Russia, which he had to leave in
-‘order to avoid life as a Russian soldier — the fate of the second sons of all
+My father arrived in 1879 from Birmingham, England, in order to marry my
+mother in Stargard. He was born in Vilna, Russia, which he had to leave in
+order to avoid life as a Russian soldier – the fate of the second sons of all
 Jewish families under the czars. My father spent about seven years in
 England where he saved enough money to buy a house in Stargard. From
-this new home he ran a small business of selling articles of men’s clothing,
+this new home he ran a small business of selling articles of men's clothing,
 mainly for farmers. He also traded in watches, gold and silver objects which
-he bought at auctions. My father lived in that town until his death in 1936 and.
-‘was known to be an honourable, sound businessman and his customers.
+he bought at auctions. My father lived in that town until his death in 1935 and
+was known to be an honourable, sound businessman and his customers
 belonged to the best circles.
 
+[Photographs: Henriette and Aron Lazarus]
+
 Henriette & Aron Lazarus
-Henriette Gitel bom Loewe ‘Aron Uriol Lazarus
-5.10.1853 - 13.01.1893, 18.07.1851 ~ 6.02.1935
+
+Henriette Gitel born Loewe — 5.10.1853 – 13.01.1893
+Aron Uriel Lazarus — 18.07.1851 – 6.02.1935
 
 My mother died at the age of 40 in 1893 having suffered from cancer of the
-ccolon for seven years. My father was 83 when he died.
+colon for seven years. My father was 83 when he died.
 
-From the age of two to nine the years of my mother's illness | was brought up
+From the age of two to nine the years of my mother's illness I was brought up
 by her half-brother and his wife, Uncle Aron and Aunt Bertha Will. They had
-
-1 children of their own and spoilt me very much. Aged nine I returned to my
-parental home after my father had re-married. | shan't go into details about the
-following six years untl I finished school. | never received the love and care
-which my wife bestowed on our three children. | would not claim that this
-somewhat unioving period of my childhood affected my development.
-
+no children of their own and spoilt me very much. Aged nine I returned to my
+parental home after my father had re-married. I shan't go into details about the
+following six years until I finished school. I never received the love and care
+which my wife bestowed on our three children. I would not claim that this
+somewhat unloving period of my childhood affected my development.
 Perhaps quite the opposite. Although when I started a business
 
-2
+[Printed page number: 2]
+
+**Verification:** Main English text, names, captions and dates visually checked against PDF page 3.
 
 ---
 
