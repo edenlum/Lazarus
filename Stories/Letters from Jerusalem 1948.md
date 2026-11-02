@@ -9,7 +9,7 @@ The emotional center of the verified material is family separation. On **1 May**
 | Date | PDF page | Status |
 |---|---:|---|
 | 1 May | 2 | Visually reviewed |
-| 5 May | 7 | OCR unverified |
+| 5 May | 7 | Opening paragraph and date visually checked; remainder OCR unverified |
 | 8 May | 10 | OCR unverified |
 | 13 May | 12 | OCR unverified |
 | 20 May | 14 | OCR unverified |
