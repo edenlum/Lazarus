@@ -1,3 +1,502 @@
 # Arthur Lazarus — Memoir of My Life
 
-> Full faithful page-by-page transcription is **pending**. See `Scans/Arthur-Lazarus-Memoir.pdf` in the downloadable vault archive. Do not confuse summaries with original text.
+> **RAW MACHINE OCR — NOT VERIFIED.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+
+Language: English. Pages below refer to **PDF page numbers**, including cover pages.
+
+## PDF page 1
+
+MEMOIR OF MY LIFE
+
+ARTHUR LAZARUS
+
+28.01.1886 — 3.01.1957
+
+91948
+
+---
+
+## PDF page 2
+
+Stargard, Pomerania ~ a District Town of approximately 30,000 inhabitants
+‘and, since the end of the Second World War, once more ceded to Poland —
+was my place of birth. By the Ina, alittle river running into the Dammschen
+Lake, the town boasted medieval walls with iron gate and churches in the
+Gothic style, all of which caused it to be called "the Pomeranian Nuemberg’.
+
+‘Bom in 1886, my childhood and schoo! years fll into the last decade ofthe
+19" century. Looking back | have to say that those good old days’ were
+barely touched by the imminent 20" century. The sleepy, musty atmosphere
+of that era was reflected in the people. Several decades of peace under the
+Hohenzollen* and fertile land producing frst rate foodstuf, caused the people
+of the region to be lethargic and unresponsive to the progress of the world.
+Only reluctantly did they partake in the achievements of civization
+
+* the rulers of Prussia, Northem Germany
+
+oe
+
+‘ge 0 Sie rt tse, a Lagan Maen
+
+pr al
+i i
+
+Copy of birth certificate of Arthur issued on 4.12.1905
+
+Stargard at that time was home to 125 Jewish families, about 500 souls. This
+‘community was assimilated in as much as it shared the comfort and lack of
+‘enterprise of the people among whom they lived. These characteristics may
+also have been due to the predominantly agricultural nature of the province
+‘which made for conservative attitudes.
+
+The Royal Gymnasium (High School) attended by both my brothers and | and
+most of the sons of the town's Jews, was catering for the sons of "gentlemen
+farmers", landowners, the sons of senior civil servants and officers. The
+curriculum of the 1890's had been largely unchanged since the seventies of
+that century. Apart from a few middle-aged teachers who were more or less.
+modern, the teaching staff consisted of old and ancient professors of a dead
+
+1
+
+---
+
+## PDF page 3
+
+‘Age. Nonetheless a breath of liberal humanism blew through the
+establishment which tolerated neither racism nor anti-Semitism, However,
+socially these were noticeable under the surface,
+
+My father arrived in 1879 from Birmingham, England, in order to mary my
+‘mother in Stargard. He was bom in Vilna, Russia, which he had to leave in
+‘order to avoid life as a Russian soldier — the fate of the second sons of all
+Jewish families under the czars. My father spent about seven years in
+England where he saved enough money to buy a house in Stargard. From
+this new home he ran a small business of selling articles of men’s clothing,
+mainly for farmers. He also traded in watches, gold and silver objects which
+he bought at auctions. My father lived in that town until his death in 1936 and.
+‘was known to be an honourable, sound businessman and his customers.
+belonged to the best circles.
+
+Henriette & Aron Lazarus
+Henriette Gitel bom Loewe ‘Aron Uriol Lazarus
+5.10.1853 - 13.01.1893, 18.07.1851 ~ 6.02.1935
+
+My mother died at the age of 40 in 1893 having suffered from cancer of the
+ccolon for seven years. My father was 83 when he died.
+
+From the age of two to nine the years of my mother's illness | was brought up
+by her half-brother and his wife, Uncle Aron and Aunt Bertha Will. They had
+
+1 children of their own and spoilt me very much. Aged nine I returned to my
+parental home after my father had re-married. | shan't go into details about the
+following six years untl I finished school. | never received the love and care
+which my wife bestowed on our three children. | would not claim that this
+somewhat unioving period of my childhood affected my development.
+
+Perhaps quite the opposite. Although when I started a business
+
+2
+
+---
+
+## PDF page 4
+
+apprenticeship in Bertin | was only 15 years old I never longed to be back in
+my parental home. | had not been conscious during those six years of a lack
+of emotional support. Only later did I realize that the years of development are
+Of the utmost importance in adult life. But in those days no one either at home.
+‘or at school concerned themselves with the needs and problems of
+youngsters growing up. Psycho-analysis had not yet been invented.
+
+APPRENTICESHIP AND BACHELOR YEARS.
+
+In Bertin | received my frst professional polish in the frm where | also
+absorbed the meaning of being a reputable businessman. An inborn business
+instinct - without possessing special talents in any parfcular field — helped me
+to do the right thing professionally from early on. Later it was said that | had
+“sense ofthe essentia". This compliment | accepted gladly. Twelve
+successful years followed:- wonderful holidays by the Baltic and North Sea;
+Denmark, German mountain regions but especially the Alps through which |
+travelled on foot and by coach from the eastem Tyrol tothe western Swiss
+Mont Blane area,
+
+Anhorse drawn coach traveling the Alps circa. 1900
+
+---
+
+## PDF page 5
+
+‘Those were the years before the motor car disturbed the idylic nature of the
+‘ps. Yellow stage coaches drawn by three or four horses travelled in convoy
+and gentle rhythm up and down the famous alpine passes such as Furka
+and Grimsel as well as through the Rhone Valle. During my fight to England
+in 1951 | marveled that it took just afew minutes to cross the Alps. These
+early joumeys with meager funds remained unforgetable memories
+throughout my life. Later trips with my wife and rather more money at my
+disposal opened up the grandeur ofthe alpine peaks.
+
+Visit to London 1951
+LR: Arthur, Brigitte with Jennifer (6 months old)
+
+Though | was not particularly good at sports | belonged to a gymnastics club
+and later a rowing cub. But mountaineering in the Alps was my favourite.
+Cycling, skiing and even boxing for a short while all ended in total failure,
+During my business trips | got to know western Germany and at an early age
+most parts of the county,
+
+---
+
+## PDF page 6
+
+‘THE TIME PRIOR TO WORLD WAR ONE
+
+In 1913, aged 27, | married my 20-year old wife. Two years previously | had
+joined Leonard Tietz AG company and — newly married and full of hope — life
+stretched before me. But in the summer of 1914 during a Czech holiday in
+Spindlermuehle the news of the murder of the Austrian heir to the throne
+(Habsburg) hit us ike a bolt from heaven. It was the beginning of an unholy
+period of wars which even now, 40 years later, has not ended.
+
+‘The wedding menu and music program
+
+5
+
+---
+
+## PDF page 7
+
+Wedding Menu
+Tuesday, 2. September 1913
+Caviar on toe 1899 Sauterne
+Consome with Bone Marrow
+Veal in a White Cream Sauce with Vegetables
+Pickled Ox Tongue in a Burgundy Cream Sauce 1909 Chateau Bemont
+
+(red)
+River Trout "bleu" with Butter & new Potatoes ‘1909 Trabener (white)
+
+Duckling ~ Salad 41902 Chateau Pichon
+Liongueville
+
+‘Asparagus with Whipped Butter 1908 Erbacher
+Steinmorgen
+
+Prince Albrecht Ice Creams Imperial Champagne
+
+Little cheese rolls, biscuits/cookies Fruit - Dessert
+
+Music Program
+1. Wedding March Mendelssohn
+2. Carmen Bizet
+3."Romance' from Mignon, Thomas
+4, Invitation to a Danoe Weber
+5. Intermezzo from Cavalleria Rusticana Mascagni
+6, Potpourt from The Mikado Sir Acthur Sullivan
+7. Wedding Day at Troldhangen Grieg
+8. Meistersinger Wagner
+‘9. Walz from “Martha” Gounod
+
+10.Hungarian Dances Brahms
+
+---
+
+## PDF page 8
+
+We had grown up during a 44 ~ year epoch of peace and had no idea of the
+horrors of war and the problems of a lost war which led to and included
+‘Nazism. Thus the carefree time from when we married to when war broke out
+lasted a mere eleven months and gave way to serious times.
+
+WAR YEARS 1914 - 1918
+
+The first blow to our family came when in January 1915 we received news of
+the death of my vife's brother, Hans Wolf. He was the firs of his Infantry
+Regiment Company to be hit by a fatal bullet, He was only 20 years old.
+
+a 4
+
+Hans Wolff 5.01.1895 ~ 14.01.1915
+
+---
+
+## PDF page 9
+
+‘A.few months before that our first son, Walter, was bom on 22 September
+1914. In April 1915 | was called up and joined the Artillery —far from Bertin. |
+was sent to Koenigsberg in East Prussia. | was parted from my family for
+nearly four years though interspersed with army leave and visits from my wife.
+‘She was left with a 7-months old baby in our new, modem apartment opposite
+theTreptower Park in East Berlin, near the river Spree.
+
+Walter - 1915,
+
+| don't wish to go into details of my war memories. Suffice it to say that | was
+stationed in Karlsruhe in Baden for more than three years unti the beginning
+of the November 1918 Revolution except for two tours of duty on the German-
+Belgian front at Ostende and Blankenberghe. Well-meaning officers, nice
+comrades, safe and pleasant duties all contributed to more than bearable war
+years. My immediate superior, Major Benno Kalau vom Hofe, showed me
+{oodwill and particularly friendly feelings which lasted well into our post-war
+Civilian life.
+
+---
+
+## PDF page 10
+
+ake A, Crome
+
+‘Arthur WORLD WAR ONE 1916
+
+Without deserving it | received the medal for Frontiine Duties (Frontkaempfer-
+kreuz), though | witnessed not a single war casualty in our group during those
+four years.
+
+---
+
+## PDF page 11
+
+| received a second medal for War Effort, ostensibly for successful
+propaganda for war loans (Kriegsanieihe) . This was coupled with
+special leave.
+
+Befisgergnis ‘me Manes te Super nt Regs
+Bom hn re ne 1.8
+‘= Yeti MR te Saal oases aT tey
+pars! fe ‘Serf Sethnter
+‘setae Pine —
+
+Certificates and Medals for Effort and War Loans
+
+---
+
+## PDF page 12
+
+The proximity of the Black Forest tempted me to take frequent trips there on
+days off duty in Kartsruhe. Meantime our son, Kurt, was bom on July 3rd 1917
+and the following summer my wife brought the two small children for a
+prolonged stay at Herrenalp where | could visit them often. Despite food
+shortage caused by the blockade of Germany and the general wartime
+‘emergency, my four years as a soldier were by and large carefree and in
+‘many ways an experience which widened my horizon,
+
+L-R: Walter, Kaote & Kurt - 1918
+
+REVOLUTION AND INFLATION
+
+‘The war ended in Germany's total defeat, sealed by the Soldiers’ Revolution. |
+‘etumed to Berlin that November and at last began a normal family life. The
+‘German economy was in ruins as a result of lack of raw materials. That is also
+hhow we found our once blossoming company Leonard Tietz in November
+1918. What appeared lke a short period of prosperity was interrupted by the
+‘madest of al inflations untl, in 1924, there was an uptumn in our company,
+
+---
+
+## PDF page 13
+
+ure style at that time though modest was one of our best periods ever
+because of uncomplicated hiking holidays, the joys of the countryside and
+tours of the Alps. | shall not go into details here about my successful business.
+career during the next few years as that is not the idea of this memoir.
+
+Kaete- Lenzerheide 1934 Kaote & Arthur —Nordemey 1927
+(an island in the North Sea)
+
+---
+
+## PDF page 14
+
+EVER FORWARD AND UPWARD TO THE DOWNFALL
+
+During the creeping inflation of 1921 | managed to buy a plot of land in
+Dahlem, one of the most beautiful westem suburbs of Bertin, We built our
+
+house here and lived init from December 1922 until we left Germany.
+
+\ >)
+
+The house in Dahlem Summer 1925
+
+‘Ovmership of a car, the expenses of which were met by the company, made
+life as magnificent as we could never have imagined in our wildest dreams.
+My wife undertook the care of the garden and our daughter, Brigitte, born on
+20 June 1922 while we stil lived in Treptow, spent her entire childhood in this
+beautiful house and garden.
+
+Kaote with Brigitte - 1923,
+
+---
+
+## PDF page 15
+
+‘The sons attended the Amdt Gymnasium nearby in Dahlem where they
+Participated in everything ths fine school had to offer, especially sports. Our
+‘well-ordered home was an attraction for friends and family.
+
+Walter Madonna di Campiglio 1931 Kurt ~Geneva 1933
+
+Wonderful holidays with our without the children, by car or by railway were the
+highlight during those ‘upward’ years. Our lfe was running smoothly. The
+orchard part of the garden kept us amply supplied with fruit throughout the
+year ~ apples, pears, plums, peaches, raspberries, strawberries, gooseberries
+land redcurrants — and a small pool for the children were the fulfiment of our
+‘dreams, It could hardly get better until the year 1933 heralded the beginning
+of the end of all the splendour.
+
+L-R: Kurt, Brigitte, Kaete & Walter- Dahlem 1924
+
+---
+
+## PDF page 16
+
+Walter & Brigitte with their grandmother , Johanna Wolff ‘Ot’
+Dahlem -1933
+
+Walter had passed the Abitur (final school exams) that spring and was given a
+ski holiday as a reward. He was to start his apprenticeship with the.
+Reichsbahn (state-run railways) when, in Apnil'33, our lfe took a different turn
+altogether.
+
+With Walter - Dahlem 1934
+
+---
+
+## PDF page 17
+
+ZIONISM AND PESSIMISM,
+
+The ignominious First of April 1933 showed me that in Germany there was no
+future any longer for our children. Decisions had to be made.
+
+‘Just as the war years saved me from death and injury so for about four years
+Until the day of our emigration, | was spared the dangers | was exposed to as
+the director ofa large manufacturing concern. We turned our back on the
+horror regime unfolding and began immediately in'33 to plan our departure in
+November 1936.
+
+Our sons joined Zionist youth movements which helped restore their
+equilibrium. Brigitte transferred to a Zionist school in Berlin Walter first went
+to Chermitz (eastem Germany) and then to Winterthur near Zuerich for
+mechanical engineering training. Kurt joined an agricultural training scheme
+(Hachsharah ) on a farm in Holland,
+
+Palestine, a British mandate at the time seemed a tempting option as a new
+home. So in September 1933 my wife and | sailed to the Middle East on the
+‘SS Roma for a reconnaissance trip. Palestine had many shortcomings:- most
+everything seemed ‘unfinished, the cimate hardly bearable during the
+‘summer months and the countryside looked very foreign’ to us. But many
+like-minded people began to go there from Germany. Life was cheap; it was
+‘an oasis of low taxes; and it was far from the country which with its racial hate
+‘campaign threatened to infect all of Europe. The second World War confirmed
+our worst fears,
+
+We settled in Tel-Aviv. The sons had joined Kibuzim. Brigitte attended schoo!
+‘and went to England in 1938 for further education. In '39 she retuned just as
+the second World War broke out. She ‘matriculated’ (University of London
+Matric for Extemal Students) and then got a job with Barclays Bank
+
+(then D.C. 80) in Jerusalem. On her pleading we moved there from Tel-Aviv
+With a large circle of old and new friends we lived in Jerusalem from 1941-
+1949.
+
+---
+
+## PDF page 18
+
+Jerusalem 1947
+
+never retumed to professional work as | had sufficient financial where-withal
+‘not to get involved hastily in risky opportunities.
+
+Looking back | have no regrets when | observe how many undertakings
+ended in bankruptcy. An important factor in my decision was that neither son
+had the inclination or abilty to build a new livelihood with me,
+
+The Jewish-Arab war which caused Jerusalem to be entirely cutoff from the
+rest ofthe Jewish part of Palestine and which resulted in water and food
+shortages were dificult months indeed. Our sons, especialy Walter, urged us
+to move to Shar Hefer where we finally built a nice litte bungalow and could
+have led a tranquil existence, But an eye operation (Giaucoma) and other
+‘age-related complaints made rural ife dificult for me and my wafe never quite
+‘came to terms with it.
+
+v
+
+The house in Shaar Hefer - 1950
+
+ith his four granddaughters
+LAR: Hana, Noemi, Jennifer & Gabi
+
+7
+
+---
+
+## PDF page 19
+
+A family reunion ~ Shaar Hefer 1952
+
+The State of Israel with its unrestrained immigration policy and senseless
+inflation brought the young state to the brink of economic breakdown. An
+inherent beggars’ (schnorrer) mentality caused or causes the government to
+spend spend spend — always in the expectation that the American Jews ‘won't
+let us down’. | could never understand why not. The prudent elements of the
+State lost their savings. That is to say, any savings they still had were reduced
+to a fraction of their former value. Add to that the ever-present fear of a new-
+possibly atomic- world war and our local worry of peace, withheld by the Arab
+‘countries around us. All this converted me from Zionism to pessimism
+despite the fact which | accept gratefully, that for 63 years | enjoyed good
+health, lived in harmony with my wife for 40 years, lost none of my three
+children and was spared from poverty. | hope fate is merciful and I retain
+sufficient eye sight to be able to write.
+
+| am after all 67 years old and must not quarrel with fate which took me from
+‘modest beginnings through decades of rising fortunes. | was spared the
+dangers of wars, revolution and persecution. All members of our immediate
+family had been saved through firm and timely decisions.
+
+My wife and I have always endeavoured to prepare our children for life's
+challenges and to afford them the best education available under the
+circumstances — perhaps the advantages were too many in some respect.
+They grew up as ‘second generation’ and thus took for granted much in their
+parental home. Objectively seen this may have spoilt them too much. That
+‘was of course not their fault. They can only follow their road through life by, as
+Goethe said,”....dem Gesetz nach dem sie angetreten”. **
+
+"as their destiny ordained’
+
+---
+
+## PDF page 20
+
+| shall end with the wish that we shall be spared being a burden to our
+
+children. If so, | shall patiently carry the burden of getting old as long as my
+maker intends.
+
+Arthur Lazarus, Shar Hefer, 7 July 1953
+
+Mein lieber Mann. unser guter Vater, Grossvater
+Bruder, Schwager und Onkel
+
+| ARTHUR LAZARUS
+
+ist heute fruh im Alter von 71 Jahren sanft entechlafen,
+
+KAETE LAZARUS
+
+WALTER LAZARUS und Famili
+KURT LAZARUS und Familie
+BRIGITTE CLAYTON und Familie
+GEORG LAZARUS und Familien
+DORA LAZARUS und Familien
+
+Die Beerdigung findet Freitag. 4. Januar 1957 vorm.
+10 Uhr vom Beth Haam, Schaar Chefer-Nira, aus, stat.
+
+Schaar Chefer-Nira, 3. Januar 1957. a
+
+‘Translated by: Brigitte Paterson April 2006
+
+‘The photos were added by llana Maik April 2006
+
+---
