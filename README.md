@@ -12,7 +12,7 @@ Private, evolving Obsidian-compatible family-history vault, beginning with two s
 ## Organization
 
 - `People/`, `Places/`, `Years/`, `Stories/` — interlinked research notes
-- `Transcriptions/` — placeholders for **pending** faithful transcriptions
+- `Transcriptions/` — full page-indexed **raw OCR drafts** of both scans; require correction before quotation
 - `Scans/` — original PDFs **not yet uploaded to GitHub**. They are included in the locally downloadable ZIP archive.
 
 ## Status and accuracy
