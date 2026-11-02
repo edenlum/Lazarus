@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Verified main text: PDF pages **2–3** (cover to be reviewed separately). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
+Verified main text: PDF pages **2–3 and 17–20** (other pages remain raw OCR). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
 
 Language: English. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -365,140 +365,156 @@ With Walter - Dahlem 1934
 
 ## PDF page 17
 
-ZIONISM AND PESSIMISM,
+### ZIONISM AND PESSIMISM
 
 The ignominious First of April 1933 showed me that in Germany there was no
 future any longer for our children. Decisions had to be made.
 
-‘Just as the war years saved me from death and injury so for about four years
-Until the day of our emigration, | was spared the dangers | was exposed to as
-the director ofa large manufacturing concern. We turned our back on the
-horror regime unfolding and began immediately in'33 to plan our departure in
+Just as the war years saved me from death and injury so for about four years
+until the day of our emigration, I was spared the dangers I was exposed to as
+the director of a large manufacturing concern. We turned our back on the
+horror regime unfolding and began immediately in '33 to plan our departure in
 November 1936.
 
 Our sons joined Zionist youth movements which helped restore their
-equilibrium. Brigitte transferred to a Zionist school in Berlin Walter first went
-to Chermitz (eastem Germany) and then to Winterthur near Zuerich for
+equilibrium. Brigitte transferred to a Zionist school in Berlin. Walter first went
+to Chemnitz (eastern Germany) and then to Winterthur near Zuerich for
 mechanical engineering training. Kurt joined an agricultural training scheme
-(Hachsharah ) on a farm in Holland,
+(Hachsharah) on a farm in Holland.
 
 Palestine, a British mandate at the time seemed a tempting option as a new
-home. So in September 1933 my wife and | sailed to the Middle East on the
-‘SS Roma for a reconnaissance trip. Palestine had many shortcomings:- most
-everything seemed ‘unfinished, the cimate hardly bearable during the
-‘summer months and the countryside looked very foreign’ to us. But many
+home. So in September 1933 my wife and I sailed to the Middle East on the
+SS Roma for a reconnaissance trip. Palestine had many shortcomings:- most
+everything seemed 'unfinished', the climate hardly bearable during the
+summer months and the countryside looked very 'foreign' to us. But many
 like-minded people began to go there from Germany. Life was cheap; it was
-‘an oasis of low taxes; and it was far from the country which with its racial hate
-‘campaign threatened to infect all of Europe. The second World War confirmed
-our worst fears,
+an oasis of low taxes; and it was far from the country which with its racial hate
+campaign threatened to infect all of Europe. The second World War confirmed
+our worst fears.
 
-We settled in Tel-Aviv. The sons had joined Kibuzim. Brigitte attended schoo!
-‘and went to England in 1938 for further education. In '39 she retuned just as
-the second World War broke out. She ‘matriculated’ (University of London
-Matric for Extemal Students) and then got a job with Barclays Bank
-
-(then D.C. 80) in Jerusalem. On her pleading we moved there from Tel-Aviv
+We settled in Tel-Aviv. The sons had joined Kibuzim. Brigitte attended school
+and went to England in 1938 for further education. In '39 she returned just as
+the second World War broke out. She 'matriculated' (University of London
+Matric for External Students) and then got a job with Barclays Bank
+(then D.C. &O) in Jerusalem. On her pleading we moved there from Tel-Aviv.
 With a large circle of old and new friends we lived in Jerusalem from 1941-
 1949.
+
+[Photo: Arthur seated, Käte standing behind him; no original caption.]
+
+[Printed page number: 16]
+
+**Verification:** Full printed English text visually checked against PDF page 17. The text says *planning began in 1933* but emigration was in **November 1936**; a reconnaissance visit took place in **September 1933**. Original historical spelling and terminology retained.
 
 ---
 
 ## PDF page 18
 
-Jerusalem 1947
+### Jerusalem 1947
 
-never retumed to professional work as | had sufficient financial where-withal
-‘not to get involved hastily in risky opportunities.
+I never returned to professional work as I had sufficient financial where-withal
+not to get involved hastily in risky opportunities.
 
-Looking back | have no regrets when | observe how many undertakings
+Looking back I have no regrets when I observe how many undertakings
 ended in bankruptcy. An important factor in my decision was that neither son
-had the inclination or abilty to build a new livelihood with me,
+had the inclination or ability to build a new livelihood with me.
 
-The Jewish-Arab war which caused Jerusalem to be entirely cutoff from the
-rest ofthe Jewish part of Palestine and which resulted in water and food
-shortages were dificult months indeed. Our sons, especialy Walter, urged us
-to move to Shar Hefer where we finally built a nice litte bungalow and could
-have led a tranquil existence, But an eye operation (Giaucoma) and other
-‘age-related complaints made rural ife dificult for me and my wafe never quite
-‘came to terms with it.
+The Jewish-Arab war which caused Jerusalem to be entirely cut off from the
+rest of the Jewish part of Palestine and which resulted in water and food
+shortages were difficult months indeed. Our sons, especially Walter, urged us
+to move to Shaar Hefer where we finally built a nice little bungalow and could
+have led a tranquil existence. But an eye operation (Glaucoma) and other
+age-related complaints made rural life difficult for me and my wife never quite
+came to terms with it.
 
-v
+[Photo: house, caption "The house in Shaar Hefer - 1950"]
 
-The house in Shaar Hefer - 1950
+[Three photographs, caption:]
+Arthur with his four granddaughters
+L-R: Ilana, Noemi, Jennifer & Gabi
 
-ith his four granddaughters
-LAR: Hana, Noemi, Jennifer & Gabi
+[Printed page number: 17]
 
-7
+**Verification:** Main English text and all printed photo captions checked against PDF page 18. The heading "Jerusalem 1947" is as printed; it does **not** date the entire subsequent retrospective discussion of the 1948 siege to 1947.
 
 ---
 
 ## PDF page 19
 
-A family reunion ~ Shaar Hefer 1952
+[Two photographs, caption:]
+A family reunion – Shaar Hefer 1952
 
 The State of Israel with its unrestrained immigration policy and senseless
 inflation brought the young state to the brink of economic breakdown. An
-inherent beggars’ (schnorrer) mentality caused or causes the government to
-spend spend spend — always in the expectation that the American Jews ‘won't
-let us down’. | could never understand why not. The prudent elements of the
+inherent beggars' (schnorrer) mentality caused or causes the government to
+spend spend spend – always in the expectation that the American Jews "won't
+let us down". I could never understand why not. The prudent elements of the
 State lost their savings. That is to say, any savings they still had were reduced
 to a fraction of their former value. Add to that the ever-present fear of a new-
 possibly atomic- world war and our local worry of peace, withheld by the Arab
-‘countries around us. All this converted me from Zionism to pessimism
-despite the fact which | accept gratefully, that for 63 years | enjoyed good
+countries around us. All this converted me from Zionism to pessimism
+despite the fact which I accept gratefully, that for 63 years I enjoyed good
 health, lived in harmony with my wife for 40 years, lost none of my three
-children and was spared from poverty. | hope fate is merciful and I retain
+children and was spared from poverty. I hope fate is merciful and I retain
 sufficient eye sight to be able to write.
 
-| am after all 67 years old and must not quarrel with fate which took me from
-‘modest beginnings through decades of rising fortunes. | was spared the
+I am after all 67 years old and must not quarrel with fate which took me from
+modest beginnings through decades of rising fortunes. I was spared the
 dangers of wars, revolution and persecution. All members of our immediate
 family had been saved through firm and timely decisions.
 
 My wife and I have always endeavoured to prepare our children for life's
 challenges and to afford them the best education available under the
-circumstances — perhaps the advantages were too many in some respect.
-They grew up as ‘second generation’ and thus took for granted much in their
+circumstances – perhaps the advantages were too many in some respect.
+They grew up as 'second generation' and thus took for granted much in their
 parental home. Objectively seen this may have spoilt them too much. That
-‘was of course not their fault. They can only follow their road through life by, as
-Goethe said,”....dem Gesetz nach dem sie angetreten”. **
+was of course not their fault. They can only follow their road through life by, as
+Goethe said,".....dem Gesetz nach dem sie angetreten". **
 
-"as their destiny ordained’
+** "....as their destiny ordained".
+
+[Printed page number: 18]
+
+**Verification:** Printed English text and family-reunion caption visually checked against PDF page 19. Politically charged wording has been preserved as **Arthur's own opinion**, not endorsed or fact-checked here. Punctuation and line wrapping follow the scan as closely as practicable.
 
 ---
 
 ## PDF page 20
 
-| shall end with the wish that we shall be spared being a burden to our
-
-children. If so, | shall patiently carry the burden of getting old as long as my
+I shall end with the wish that we shall be spared being a burden to our
+children. If so, I shall patiently carry the burden of getting old as long as my
 maker intends.
 
-Arthur Lazarus, Shar Hefer, 7 July 1953
+Arthur Lazarus, Shaar Hefer, 7 July 1953
 
-Mein lieber Mann. unser guter Vater, Grossvater
+[Photograph of German-language death notice; transcription of the clearly legible portion:]
+
+Mein lieber Mann, unser guter Vater, Grossvater,
 Bruder, Schwager und Onkel
 
-| ARTHUR LAZARUS
+ARTHUR LAZARUS
 
-ist heute fruh im Alter von 71 Jahren sanft entechlafen,
+ist heute früh im Alter von 71 Jahren sanft entschlafen.
 
 KAETE LAZARUS
-
-WALTER LAZARUS und Famili
+WALTER LAZARUS und Familie
 KURT LAZARUS und Familie
 BRIGITTE CLAYTON und Familie
 GEORG LAZARUS und Familien
 DORA LAZARUS und Familien
 
-Die Beerdigung findet Freitag. 4. Januar 1957 vorm.
-10 Uhr vom Beth Haam, Schaar Chefer-Nira, aus, stat.
+Die Beerdigung findet Freitag, 4. Januar 1957 vorm.
+10 Uhr vom Beth Haam, Schaar Chefer-Nira, aus, statt.
 
-Schaar Chefer-Nira, 3. Januar 1957. a
+Schaar Chefer-Nira, 3. Januar 1957.
 
-‘Translated by: Brigitte Paterson April 2006
+Translated by: Brigitte Paterson April 2006
 
-‘The photos were added by llana Maik April 2006
+The photos were added by Ilana Maik April 2006
+
+[Printed page number: 19]
+
+**Verification:** English text, attribution lines and the legible typed death-notice text visually checked against PDF page 20. The notice identifies *Brigitte Clayton* in 1957, while the 2006 translation credit says *Brigitte Paterson*; these names should **not** be automatically merged without further evidence. The original notice's punctuation and German spelling may require specialist review.
 
 ---
+
