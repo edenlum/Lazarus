@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Verified main text: PDF pages **2–3 and 17–20** (other pages remain raw OCR). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
+Verified main text: PDF pages **2–3, 5–9, and 14–20** (other pages remain raw OCR). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
 
 Language: English. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -128,118 +128,142 @@ Anhorse drawn coach traveling the Alps circa. 1900
 
 ## PDF page 5
 
-‘Those were the years before the motor car disturbed the idylic nature of the
-‘ps. Yellow stage coaches drawn by three or four horses travelled in convoy
+Those were the years before the motor car disturbed the idyllic nature of the
+Alps. Yellow stage coaches drawn by three or four horses travelled in convoy
 and gentle rhythm up and down the famous alpine passes such as Furka
-and Grimsel as well as through the Rhone Valle. During my fight to England
-in 1951 | marveled that it took just afew minutes to cross the Alps. These
-early joumeys with meager funds remained unforgetable memories
+and Grimsel as well as through the Rhone Valley. During my flight to England
+in 1951 I marvelled that it took just a few minutes to cross the Alps. These
+early journeys with meager funds remained unforgettable memories
 throughout my life. Later trips with my wife and rather more money at my
-disposal opened up the grandeur ofthe alpine peaks.
+disposal opened up the grandeur of the alpine peaks.
 
+[Photograph, caption:]
 Visit to London 1951
-LR: Arthur, Brigitte with Jennifer (6 months old)
+L-R: Arthur, Brigitte with Jennifer (6 months old)
 
-Though | was not particularly good at sports | belonged to a gymnastics club
-and later a rowing cub. But mountaineering in the Alps was my favourite.
-Cycling, skiing and even boxing for a short while all ended in total failure,
-During my business trips | got to know western Germany and at an early age
-most parts of the county,
+Though I was not particularly good at sports I belonged to a gymnastics club
+and later a rowing club. But mountaineering in the Alps was my favourite.
+Cycling, skiing and even boxing for a short while all ended in total failure.
+During my business trips I got to know western Germany and at an early age
+most parts of the country.
+
+[Printed page number: 4]
+
+**Verification:** Printed text and image caption checked against PDF page 5.
 
 ---
 
 ## PDF page 6
 
-‘THE TIME PRIOR TO WORLD WAR ONE
+### THE TIME PRIOR TO WORLD WAR ONE
 
-In 1913, aged 27, | married my 20-year old wife. Two years previously | had
-joined Leonard Tietz AG company and — newly married and full of hope — life
+In 1913, aged 27, I married my 20-year old wife. Two years previously I had
+joined Leonard Tietz AG company and – newly married and full of hope – life
 stretched before me. But in the summer of 1914 during a Czech holiday in
 Spindlermuehle the news of the murder of the Austrian heir to the throne
-(Habsburg) hit us ike a bolt from heaven. It was the beginning of an unholy
+(Habsburg) hit us like a bolt from heaven. It was the beginning of an unholy
 period of wars which even now, 40 years later, has not ended.
 
-‘The wedding menu and music program
+[Photograph, caption:]
+Arthur & Kaete on their wedding day 2.9.1913
 
-5
+[Two photographed documents, caption:]
+The wedding menu and music program
+
+[Printed page number: 5]
+
+**Verification:** Printed text and captions checked against PDF page 6; tiny text inside photographed documents is not transcribed here. The printed menu/program is transcribed on PDF page 7.
 
 ---
 
 ## PDF page 7
 
-Wedding Menu
+### Wedding Menu
 Tuesday, 2. September 1913
-Caviar on toe 1899 Sauterne
+
+Caviar on Ice — 1899 Sauterne
+
 Consome with Bone Marrow
+
 Veal in a White Cream Sauce with Vegetables
-Pickled Ox Tongue in a Burgundy Cream Sauce 1909 Chateau Bemont
 
-(red)
-River Trout "bleu" with Butter & new Potatoes ‘1909 Trabener (white)
+Pickled Ox Tongue in a Burgundy Cream Sauce — 1909 Chateau Bemont (red)
 
-Duckling ~ Salad 41902 Chateau Pichon
-Liongueville
+River Trout "bleu" with Butter & new Potatoes — 1909 Trabener (white)
 
-‘Asparagus with Whipped Butter 1908 Erbacher
-Steinmorgen
+Duckling – Salad — 1902 Chateau Pichon Liongueville
 
-Prince Albrecht Ice Creams Imperial Champagne
+Asparagus with Whipped Butter — 1905 Erbacher Steinmorgen
+
+Prince Albrecht Ice Creams — Imperial Champagne
 
 Little cheese rolls, biscuits/cookies Fruit - Dessert
 
-Music Program
-1. Wedding March Mendelssohn
-2. Carmen Bizet
-3."Romance' from Mignon, Thomas
-4, Invitation to a Danoe Weber
-5. Intermezzo from Cavalleria Rusticana Mascagni
-6, Potpourt from The Mikado Sir Acthur Sullivan
-7. Wedding Day at Troldhangen Grieg
-8. Meistersinger Wagner
-‘9. Walz from “Martha” Gounod
+### Music Program
 
-10.Hungarian Dances Brahms
+1. Wedding March — Mendelssohn
+2. Carmen — Bizet
+3. "Romance" from Mignon — Thomas
+4. Invitation to a Dance — Weber
+5. Intermezzo from Cavalleria Rusticana — Mascagni
+6. Potpourri from The Mikado — Sir Arthur Sullivan
+7. Wedding Day at Troldhangen — Grieg
+8. Meistersinger — Wagner
+9. Walz from "Martha" — Gounod
+10. Hungarian Dances — Brahms
+
+[Printed page number: 6]
+
+**Verification:** Menu, wine listings and music program checked against PDF page 7. Historical printed spellings retained (e.g. "Consome", "Walz", "Troldhangen"). List layout is editorially normalized.
 
 ---
 
 ## PDF page 8
 
-We had grown up during a 44 ~ year epoch of peace and had no idea of the
+We had grown up during a 44 – year epoch of peace and had no idea of the
 horrors of war and the problems of a lost war which led to and included
-‘Nazism. Thus the carefree time from when we married to when war broke out
+Nazism. Thus the carefree time from when we married to when war broke out
 lasted a mere eleven months and gave way to serious times.
 
-WAR YEARS 1914 - 1918
+### WAR YEARS 1914 – 1918
 
 The first blow to our family came when in January 1915 we received news of
-the death of my vife's brother, Hans Wolf. He was the firs of his Infantry
-Regiment Company to be hit by a fatal bullet, He was only 20 years old.
+the death of my wife's brother, Hans Wolff. He was the first of his Infantry
+Regiment Company to be hit by a fatal bullet. He was only 20 years old.
 
-a 4
+[Photograph, caption:]
+Hans Wolff 5.01.1895 – 14.01.1915
 
-Hans Wolff 5.01.1895 ~ 14.01.1915
+[Printed page number: 7]
+
+**Verification:** Printed text, name and exact dates checked against PDF page 8.
 
 ---
 
 ## PDF page 9
 
-‘A.few months before that our first son, Walter, was bom on 22 September
-1914. In April 1915 | was called up and joined the Artillery —far from Bertin. |
-was sent to Koenigsberg in East Prussia. | was parted from my family for
+A few months before that our first son, Walter, was born on 22 September
+1914. In April 1915 I was called up and joined the Artillery – far from Berlin. I
+was sent to Koenigsberg in East Prussia. I was parted from my family for
 nearly four years though interspersed with army leave and visits from my wife.
-‘She was left with a 7-months old baby in our new, modem apartment opposite
-theTreptower Park in East Berlin, near the river Spree.
+She was left with a 7-months old baby in our new, modern apartment opposite
+the Treptower Park in East Berlin, near the river Spree.
 
-Walter - 1915,
+[Photograph, caption:]
+Walter - 1915
 
-| don't wish to go into details of my war memories. Suffice it to say that | was
-stationed in Karlsruhe in Baden for more than three years unti the beginning
+I don't wish to go into details of my war memories. Suffice it to say that I was
+stationed in Karlsruhe in Baden for more than three years until the beginning
 of the November 1918 Revolution except for two tours of duty on the German-
 Belgian front at Ostende and Blankenberghe. Well-meaning officers, nice
 comrades, safe and pleasant duties all contributed to more than bearable war
 years. My immediate superior, Major Benno Kalau vom Hofe, showed me
-{oodwill and particularly friendly feelings which lasted well into our post-war
-Civilian life.
+goodwill and particularly friendly feelings which lasted well into our post-war
+civilian life.
+
+[Printed page number: 8]
+
+**Verification:** Printed text and photograph caption checked against PDF page 9.
 
 ---
 
@@ -308,58 +332,74 @@ Kaete- Lenzerheide 1934 Kaote & Arthur —Nordemey 1927
 
 ## PDF page 14
 
-EVER FORWARD AND UPWARD TO THE DOWNFALL
+### EVER FORWARD AND UPWARD TO THE DOWNFALL
 
-During the creeping inflation of 1921 | managed to buy a plot of land in
-Dahlem, one of the most beautiful westem suburbs of Bertin, We built our
+During the creeping inflation of 1921 I managed to buy a plot of land in
+Dahlem, one of the most beautiful western suburbs of Berlin. We built our
+house here and lived in it from December 1922 until we left Germany.
 
-house here and lived init from December 1922 until we left Germany.
-
-\ >)
-
+[Photograph, caption:]
 The house in Dahlem Summer 1925
 
-‘Ovmership of a car, the expenses of which were met by the company, made
+Ownership of a car, the expenses of which were met by the company, made
 life as magnificent as we could never have imagined in our wildest dreams.
 My wife undertook the care of the garden and our daughter, Brigitte, born on
-20 June 1922 while we stil lived in Treptow, spent her entire childhood in this
+20 June 1922 while we still lived in Treptow, spent her entire childhood in this
 beautiful house and garden.
 
-Kaote with Brigitte - 1923,
+[Photograph, caption:]
+Kaete with Brigitte - 1923
+
+[Printed page number: 13]
+
+**Verification:** Printed text, dates, and captions checked against PDF page 14.
 
 ---
 
 ## PDF page 15
 
-‘The sons attended the Amdt Gymnasium nearby in Dahlem where they
-Participated in everything ths fine school had to offer, especially sports. Our
-‘well-ordered home was an attraction for friends and family.
+The sons attended the Arndt Gymnasium nearby in Dahlem where they
+participated in everything this fine school had to offer, especially sports. Our
+well-ordered home was an attraction for friends and family.
 
-Walter Madonna di Campiglio 1931 Kurt ~Geneva 1933
+[Photograph captions:]
+Walter – Madonna di Campiglio 1931
+Kurt – Geneva 1933
 
 Wonderful holidays with our without the children, by car or by railway were the
-highlight during those ‘upward’ years. Our lfe was running smoothly. The
+highlight during those 'upward' years. Our life was running smoothly. The
 orchard part of the garden kept us amply supplied with fruit throughout the
-year ~ apples, pears, plums, peaches, raspberries, strawberries, gooseberries
-land redcurrants — and a small pool for the children were the fulfiment of our
-‘dreams, It could hardly get better until the year 1933 heralded the beginning
+year – apples, pears, plums, peaches, raspberries, strawberries, gooseberries
+and redcurrants – and a small pool for the children were the fulfilment of our
+dreams. It could hardly get better until the year 1933 heralded the beginning
 of the end of all the splendour.
 
-L-R: Kurt, Brigitte, Kaete & Walter- Dahlem 1924
+[Photograph, caption:]
+L-R : Kurt, Brigitte, Kaete & Walter – Dahlem 1924
+
+[Printed page number: 14]
+
+**Verification:** Printed text and photo captions checked against PDF page 15. The phrase "with our without" appears as printed in this English translation; it is left unchanged rather than silently corrected.
 
 ---
 
 ## PDF page 16
 
-Walter & Brigitte with their grandmother , Johanna Wolff ‘Ot’
+[Photograph, caption:]
+Walter & Brigitte with their grandmother, Johanna Wolff 'Oti'
 Dahlem -1933
 
 Walter had passed the Abitur (final school exams) that spring and was given a
-ski holiday as a reward. He was to start his apprenticeship with the.
-Reichsbahn (state-run railways) when, in Apnil'33, our lfe took a different turn
+ski holiday as a reward. He was to start his apprenticeship with the
+Reichsbahn (state-run railways) when, in April '33, our life took a different turn
 altogether.
 
-With Walter - Dahlem 1934
+[Photograph, caption:]
+With Walter – Dahlem 1934
+
+[Printed page number: 15]
+
+**Verification:** Printed text and photo captions checked against PDF page 16. The caption identifies Johanna Wolff as a grandmother of Walter and Brigitte; her precise genealogical relationship should still be checked.
 
 ---
 
