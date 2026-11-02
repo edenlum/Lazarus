@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, and 31**. Pages 2–36 remain unverified machine OCR and contain substantial Hebrew recognition errors; do not quote them as checked text.
+Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, and 35**. Pages 2–36 remain unverified machine OCR and contain substantial Hebrew recognition errors; do not quote them as checked text.
 
 Language: Hebrew. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -961,25 +961,28 @@ or ‏איש צבא בריטי . היה ציוני ואף ידע עברית.‎ 
 
 ## PDF page 35
 
+[תצלום בית, כיתוב:]
 הבית בשער חפר - 1951
 
-*- ₪ :- גבי ולטר אילנה אוטי נעמי וקורט בבית בשער חפר - 11951
+[תצלום משפחתי, כיתוב:]
+י-ש: גבי ולטר אילנה אוטי נעמי וקורט בבית בשער חפר - 1951
 
-מאז ה-20 לחודש חודשה ‎Ny‏ האספקה וקבלנו כבר פעם דג ופעמיים ירקות ואפילו כל אחד.
-תפוז. בעוד כמה ימים אמור לחזור החשמל ועובדים על מפעל המים. אתמול הייו בפעם.
-הראשונה מזה חודשים בקולנוע עם נלי. רק שלא תתחיל שוב שפיכות הדמים בגל שיגעון של.
-‎THN‏ הצדדים. קראתי שברטלי קרום קנה את מהדורת אחר הצהרים של העיתון ‏
-
-ren ‏אולי זה *יתן לדויד (קלייטון) הזדמנויות חדשות. זהו מכתבנו השלישי‎ New Yorker
-‘ope ‏בבקשה שימרו על‎ Wan ‏הפסקת האש. אני מקווה שגם אלה מה-12.6 וה-20.6‎
-‏ברוכים שניכם ושלעולם לא יפרידו זמנים כל כך מרים את קשרי המכתבים ביני‎
+מאז ה-20 לחודש חודשה קצת האספקה וקבלנו כבר פעם דג ופעמיים ירקות ואפילו כל אחד
+תפוז. בעוד כמה ימים אמור לחזור החשמל ועובדים על מפעל המים. אתמול היינו בפעם
+הראשונה מזה חודשים בקולנוע עם נלי. רק שלא תתחיל שוב שפיכות הדמים בגלל שיגעון של
+אחד הצדדים. קראתי שברטלי קרום קנה את מהדורת אחר הצהרים של העיתון
+New Yorker אולי זה יתן לדויד (קלייטון) הזדמנויות חדשות. זהו מכתבנו השלישי מאז
+הפסקת האש. אני מקווה שגם אלה מה-12.6 וה-20.6 הגיעו. בבקשה שימרו על יומני. היו
+ברוכים שניכם ושלעולם לא יפרידו זמנים כל כך מרים את קשרי המכתבים בינינו.
 
 אנחנו מחכים בקוצר רוח לשמוע טובות מכם.
 
-מאחורי הדף היה כתוב נשיקות וברכות מכל הלב -- אבא.
-208
+מאחורי הדף היה כתוב נשיקות וברכות מכל הלב – אבא.
+23.6.48
 
-34
+[Printed page number: 34]
+
+**Verification:** Main Hebrew text, two photo captions and date checked visually against PDF page 35. The photo caption dates the house to **1951**, while the memoir captions what appears to be the same house photograph **1950** (memoir PDF p.18). Do not resolve that conflict without independent evidence. This is a *typeset compilation*, and "מאחורי הדף..." describes words reportedly written on the reverse; the reverse itself is not pictured.
 
 ---
 
