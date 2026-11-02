@@ -11,12 +11,12 @@ Updated November 2026. Source files are stored in **`Scans/`** and both are vali
 
 | Source | PDF pages | Visually reviewed main text | Raw OCR / pending |
 |---|---:|---|---|
-| Arthur memoir | 20 | **1–3, 5–9, 14–20** (15 pages) | **4, 10–13** (5 pages) |
+| Arthur memoir | 20 | **1–20** (20 pages) | Main text complete; embedded German facsimiles and handwriting remain to check |
 | Käte letters | 36 | **1, 2, 31, 35–36** (5 pages) | **3–30, 32–34** (31 pages) |
 
-**20 of 56 pages have received visual main-text review**, with 36 still requiring it. Review does not guarantee every difficult word, image insert, facsimile, translation or historical claim is independently verified.
+**25 of 56 pages have received visual main-text review**, with 31 still requiring it. Käte letters **pages 7 and 34** additionally have **partially verified opening paragraphs**; the rest of those pages remain raw OCR. Review does not guarantee every difficult word, image insert, facsimile, translation or historical claim is independently verified.
 
-The typed German death notice on Arthur memoir p.20 was also read, but may warrant specialist checking. The handwriting reproduced in other document facsimiles has not been independently transcribed.
+The typed German death notice on Arthur memoir p.20 was also read, but may warrant specialist checking. Arthur's main narrative and principal captions were reviewed on every page (including PDF pp. 4, 10–13 in this pass). The handwriting reproduced in other document facsimiles has not been independently transcribed.
 
 ## Critical corrections
 
@@ -34,6 +34,10 @@ The typed German death notice on Arthur memoir p.20 was also read, but may warra
 4. Distinguish **letter date**, **photo date**, **photo-caption editor**, **memoir composition date (1953)**, and **English translation/photo compilation (2006)**.
 5. Personal judgments, political claims and casualty estimates in the memoir/letters are **attributed testimony**, not objectively verified historical facts.
 6. Uncertainty should remain visible instead of being silently guessed away.
+
+## Website publication
+
+The curated, mobile-friendly Layer-4 site is in `docs/` and the setup instructions are in `PUBLISHING.md`. **GitHub Pages is not enabled yet**; `docs/` is deliberately separate from `Scans/`, `Transcriptions/`, and the full private vault. Publishing a page must not automatically expose new private notes.
 
 ## Next priorities
 
