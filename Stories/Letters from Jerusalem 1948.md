@@ -1,28 +1,24 @@
 # Letters from Jerusalem 1948
 
-**Author:** [[Käte Lazarus]]. **Recipient:** [[Arthur Lazarus]].
+**Writer:** [[Käte Lazarus]]; **recipient:** [[Arthur Lazarus]], according to the compilation's cover. Dates: **1 May–23 June 1948**.
 
-Cover indicates correspondence from 1 May to 23 June 1948 during the siege of Jerusalem. Personal letters describe family, uncertainty, wartime conditions, convoys and shortages and include family and historical photographs.
+The emotional center of the verified material is family separation. On **1 May**, Käte describes spring blossoms and then reveals how much it hurts that she has no news of her children and grandchildren. On **15 June**, a telegram telling her they are safe produces tremendous relief. On **23 June**, after some supplies and mail return, she ends with a wish that terrible times should never again interrupt their correspondence. See [[Letters that could not be sent]].
 
-## Dated anchors (PDF pages)
+## Letter date anchors
 
-| Date | PDF page |
-|---|---:|
-| 1 May 1948 | 2 |
-| 6 May 1948 | 7 |
-| 8 May 1948 | 10 |
-| 13 May 1948 | 12 |
-| 20 May 1948 | 14 |
-| 26 May 1948 | 18 |
-| 30 May 1948 | 21 |
-| 12 June 1948 | 29 |
-| 15 June 1948 | 31 |
-| 23 June 1948 | 34 |
+| Date | PDF page | Status |
+|---|---:|---|
+| 1 May | 2 | Visually reviewed |
+| 5 May | 7 | OCR unverified |
+| 8 May | 10 | OCR unverified |
+| 13 May | 12 | OCR unverified |
+| 20 May | 14 | OCR unverified |
+| 26 May | 18 | OCR unverified |
+| 30 May | 21 | OCR unverified |
+| 12 June | 29 | OCR unverified |
+| 15 June | 31 | Visually reviewed |
+| 23 June | 34–35 | Page 35 visually reviewed; p.34 OCR unverified |
 
-Nonexhaustive anchors, not a complete letter index. Original Hebrew needs transcription verification.
+The collection is **not merely the letters**: photographs from 1945, 1947, 1950 and 1951, historical illustrations and explanatory notes appear alongside them. That material may have been inserted by a later editor. See [[Photographs and caption conflicts]].
 
-## Images
-
-Family images: PDF pp.2–3, 7–9. Convoys and Jerusalem: pp.5, 11, 14–15, 17–18, 21–23, 29, 33. Family house in Shaar Hefer: p.35 (compare Arthur memoir p.18).
-
-Source: `Scans/Kaete-Lazarus-Letters-1948.pdf` pp.1–36.
+**Source:** `Scans/Kaete-Lazarus-Letters-1948.pdf` (PDF pages, not printed pagination). 
