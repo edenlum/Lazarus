@@ -1,31 +1,40 @@
 # Sources and review status
 
-## Original scanned documents
+Updated November 2026. Source files are stored in **`Scans/`** and both are valid PDFs.
 
-1. **Arthur Lazarus — Memoir of My Life** — 20 PDF pages in English, source filename `BRW4C82A94B8B4E_000140.pdf`.
-2. **Käte Lazarus — letters from Jerusalem, May–June 1948** — 36 PDF pages mainly in Hebrew, source filename `BRW4C82A94B8B4E_000160.pdf`.
+## The original documents
 
-The original PDF scans are authoritative and are present in `Scans/` (20-page memoir and 36-page letters).
+- `Scans/Arthur-Lazarus-Memoir.pdf` — **20 PDF pages**, English translation of Arthur's memoir signed **7 July 1953** (p.20). English translation credited to Brigitte Paterson, April 2006; photos added by Ilana Maik, April 2006.
+- `Scans/Kaete-Lazarus-Letters-1948.pdf` — **36 PDF pages**, Hebrew compilation of letters dated 1 May–23 June 1948, plus photographs, captions and editorial material. The cover attributes the letters to Käte but **does not identify their recipient(s)**.
 
-## OCR status — November 2026
+## Layer 2: transcription coverage
 
-A page-by-page **raw machine OCR draft for all 56 pages has been generated**, preserving the original language and including explicit PDF page numbers. Both raw OCR drafts are now committed to this GitHub repository, replacing the placeholders.
+| Source | PDF pages | Visually reviewed main text | Raw OCR / pending |
+|---|---:|---|---|
+| Arthur memoir | 20 | **1–3, 5–9, 14–20** (15 pages) | **4, 10–13** (5 pages) |
+| Käte letters | 36 | **1, 2, 31, 35** (4 pages) | **3–30, 32–34, 36** (32 pages) |
 
-The English transcription has been visually checked and corrected for PDF pages 2–3; other pages still contain raw OCR errors. The Hebrew cover (PDF page 1) has been visually checked and corrected. Hebrew pages 2–36 contain substantial OCR artifacts (misrecognized Hebrew, punctuation, and stray Latin characters); consider them *unverified text*, not publication-ready transcripts. Photographs, charts, marginalia, and document facsimiles still require visual review.
+**19 of 56 pages have received visual main-text review**, with 37 still requiring it. Review does not guarantee every difficult word, image insert, facsimile, translation or historical claim is independently verified.
 
-The transcription files in this repository are:
-- `Transcriptions/Arthur-Lazarus-Memoir.md` (raw OCR draft uploaded; human review pending)
-- `Transcriptions/Kaete-Lazarus-Letters-1948.md` (raw OCR draft uploaded; human review pending)
+The typed German death notice on Arthur memoir p.20 was also read, but may warrant specialist checking. The handwriting reproduced in other document facsimiles has not been independently transcribed.
 
-## Evidence rules
+## Critical corrections
 
-- Never silently substitute paraphrase for a quotation.
-- Confirm names, relationships, dates and quoted text in the scans.
-- Page references are **PDF page indices**, not necessarily original printed page numbers.
-- Maintain separate *faithful checked transcription* and *interpretive summaries*.
+- Arthur's father [[Aron Uriel Lazarus]] died in **1935**, not 1936 (memoir p.3, source image checked).
+- Family emigration was **November 1936** after **1933 planning and a September 1933 exploratory trip** (memoir p.17).
+- Neither the letter cover nor the visually checked May/June text establishes Arthur as the recipient. Arthur is referred to as "Dad" and seems to have been in Jerusalem with Käte (letters pp.1–2, 35). **Exact addressees unresolved.**
+- The house photo in [[Shaar Hefer]] is captioned **1950** in Arthur's memoir p.18 and **1951** in the letter compilation p.35.
+- The 1957 death notice mentions **BRIGITTE CLAYTON**, whereas the 2006 translator credit uses **Brigitte Paterson**; treat names as an unresolved identity/surname question until further evidence (memoir p.20).
 
-## Visual verification log (November 2026)
+## Interpretive rules
 
-- Arthur memoir PDF **pages 2–3**: English printed body text and captions corrected against rendered source pages, including the father's death year **1935** (OCR incorrectly said 1936), Loewe name and photo captions. The embedded handwritten German birth certificate on page 2 is *not* transcribed.
-- Käte letters PDF **page 1**: Hebrew cover corrected from the scan, notably the birth date **15.5.1893** and death date **14.10.1971**.
-- All remaining source pages: machine OCR **not yet visually verified**. The existence of a text block does not mean it has been reviewed.
+1. Historical evidence = image and original wording in `Scans/` and checked transcription, with PDF page number.
+2. Transcription may be wrong; **unchecked OCR is not citable verbatim**.
+3. Person pages and stories are secondary, evolving *syntheses*; they cannot independently corroborate each other.
+4. Distinguish **letter date**, **photo date**, **photo-caption editor**, **memoir composition date (1953)**, and **English translation/photo compilation (2006)**.
+5. Personal judgments, political claims and casualty estimates in the memoir/letters are **attributed testimony**, not objectively verified historical facts.
+6. Uncertainty should remain visible instead of being silently guessed away.
+
+## Next priorities
+
+See [[Review queue]] for remaining OCR pages, disputed relationships, and editorial-photo questions.
