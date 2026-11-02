@@ -15,9 +15,9 @@ Open, source-specific questions for future family documents. This is a **researc
 
 ## Layer 2 visual verification backlog
 
-**Arthur memoir:** PDF **4, 10–13** (5 pages).
+**Arthur memoir:** printed English narrative and primary captions **all 20 PDF pages reviewed**. Some embedded handwritten or German-language certificates/facsimiles remain untranscribed.
 
-**Käte letters:** PDF **3–30 and 32–34** (31 pages) — especially page **7** (5 May letter), page **34** (opening of final June 23 letter). Remaining pages have raw OCR.
+**Käte letters:** PDF **3–30 and 32–34** (31 pages) still require full visual review. The **opening paragraphs on pages 7 and 34** have been manually checked, but the rest of those pages remains unverified OCR. Prioritize the remaining Hebrew text and photo captions.
 
 Also review all small facsimiles, photographs and historic German spelling. For checked pages, re-read uncertain proper names before using them in a publication.
 
