@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, and 35**. Pages 2–36 remain unverified machine OCR and contain substantial Hebrew recognition errors; do not quote them as checked text.
+Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, and 35**. **All other pages (3–30, 32–34, 36)** remain raw machine OCR with substantial Hebrew recognition errors. Even reviewed pages may contain uncertain words; check the image for exact quotation. The compilation cover **does not name the recipients** of Käte's letters.
 
 Language: Hebrew. Pages below refer to **PDF page numbers**, including cover pages.
 
