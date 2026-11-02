@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED TRANSCRIPTION.** Main text on pages listed below has been visually reviewed against the scan; remaining pages are raw OCR and may contain errors. Small embedded facsimiles require independent checking. Treat the 2006 English translation as the textual source, not the original 1953 German manuscript.
 
-Visually reviewed main text: **PDF pages 1–3, 5–9, 14–20**. Raw OCR still on **pages 4 and 10–13**. Some reproduced facsimiles are not independently transcribed. Photo captions and difficult historical spellings may require later follow-up.
+Visually reviewed main English text: **ALL PDF pages 1–20**. This covers the printed English narrative and primary captions, but **small embedded German documents, handwriting and some facsimile details remain untranscribed**. Check scan images before exact publication or quotation.
 
 Language: English. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -105,26 +105,30 @@ Perhaps quite the opposite. Although when I started a business
 
 ## PDF page 4
 
-apprenticeship in Bertin | was only 15 years old I never longed to be back in
-my parental home. | had not been conscious during those six years of a lack
+apprenticeship in Berlin I was only 15 years old I never longed to be back in
+my parental home. I had not been conscious during those six years of a lack
 of emotional support. Only later did I realize that the years of development are
-Of the utmost importance in adult life. But in those days no one either at home.
-‘or at school concerned themselves with the needs and problems of
+of the utmost importance in adult life. But in those days no one either at home
+or at school concerned themselves with the needs and problems of
 youngsters growing up. Psycho-analysis had not yet been invented.
 
-APPRENTICESHIP AND BACHELOR YEARS.
+### APPRENTICESHIP AND BACHELOR YEARS
 
-In Bertin | received my frst professional polish in the frm where | also
+In Berlin I received my first professional polish in the firm where I also
 absorbed the meaning of being a reputable businessman. An inborn business
-instinct - without possessing special talents in any parfcular field — helped me
-to do the right thing professionally from early on. Later it was said that | had
-“sense ofthe essentia". This compliment | accepted gladly. Twelve
+instinct – without possessing special talents in any particular field – helped me
+to do the right thing professionally from early on. Later it was said that I had a
+"sense of the essential". This compliment I accepted gladly. Twelve
 successful years followed:- wonderful holidays by the Baltic and North Sea;
-Denmark, German mountain regions but especially the Alps through which |
-travelled on foot and by coach from the eastem Tyrol tothe western Swiss
-Mont Blane area,
+Denmark, German mountain regions but especially the Alps through which I
+travelled on foot and by coach from the eastern Tyrol to the western Swiss
+Mont Blanc area.
 
-Anhorse drawn coach traveling the Alps circa. 1900
+[Photograph/caption: A horse drawn coach traveling the Alps circa. 1900]
+
+[Printed page number: 3]
+
+**Verification:** Main printed text and photograph caption visually checked against PDF page 4.
 
 ---
 
@@ -271,64 +275,88 @@ civilian life.
 
 ## PDF page 10
 
-ake A, Crome
+[Four photographic images of Arthur and fellow soldiers during World War I, including a handwritten-caption photograph.]
 
-‘Arthur WORLD WAR ONE 1916
+[Printed caption:]
+Arthur – WORLD WAR ONE 1916
 
-Without deserving it | received the medal for Frontiine Duties (Frontkaempfer-
-kreuz), though | witnessed not a single war casualty in our group during those
+Without deserving it I received the medal for Frontline Duties (Frontkaempfer-
+kreuz), though I witnessed not a single war casualty in our group during those
 four years.
+
+[Printed page number: 9]
+
+**Verification:** Main printed text, photograph grouping and caption visually checked against PDF page 10. Small handwritten captions within photographs not independently deciphered.
 
 ---
 
 ## PDF page 11
 
-| received a second medal for War Effort, ostensibly for successful
-propaganda for war loans (Kriegsanieihe) . This was coupled with
+I received a second medal for War Effort, ostensibly for successful
+propaganda for war loans (Kriegsanleihe). This was coupled with
 special leave.
 
-Befisgergnis ‘me Manes te Super nt Regs
-Bom hn re ne 1.8
-‘= Yeti MR te Saal oases aT tey
-pars! fe ‘Serf Sethnter
-‘setae Pine —
+[Two photographic facsimiles of original German-language certificates, not fully transcribed.]
 
+[Photograph: two medals with ribbons]
+
+[Printed caption:]
 Certificates and Medals for Effort and War Loans
+
+[Printed page number: 10]
+
+**Verification:** Main printed English text and captions visually checked against PDF page 11; the **German certificates embedded as images are not transcribed or verified**.
 
 ---
 
 ## PDF page 12
 
 The proximity of the Black Forest tempted me to take frequent trips there on
-days off duty in Kartsruhe. Meantime our son, Kurt, was bom on July 3rd 1917
+days off duty in Karlsruhe. Meantime our son, Kurt, was born on July 3rd 1917
 and the following summer my wife brought the two small children for a
-prolonged stay at Herrenalp where | could visit them often. Despite food
+prolonged stay at Herrenalp where I could visit them often. Despite food
 shortage caused by the blockade of Germany and the general wartime
-‘emergency, my four years as a soldier were by and large carefree and in
-‘many ways an experience which widened my horizon,
+emergency, my four years as a soldier were by and large carefree and in
+many ways an experience which widened my horizon.
 
-L-R: Walter, Kaote & Kurt - 1918
+[Photograph caption:]
+L-R: Walter, Kaete & Kurt - 1918
 
-REVOLUTION AND INFLATION
+### REVOLUTION AND INFLATION
 
-‘The war ended in Germany's total defeat, sealed by the Soldiers’ Revolution. |
-‘etumed to Berlin that November and at last began a normal family life. The
-‘German economy was in ruins as a result of lack of raw materials. That is also
-hhow we found our once blossoming company Leonard Tietz in November
-1918. What appeared lke a short period of prosperity was interrupted by the
-‘madest of al inflations untl, in 1924, there was an uptumn in our company,
+The war ended in Germany's total defeat, sealed by the Soldiers' Revolution. I
+returned to Berlin that November and at last began a normal family life. The
+German economy was in ruins as a result of lack of raw materials. That is also
+how we found our once blossoming company Leonard Tietz in November
+1918. What appeared like a short period of prosperity was interrupted by the
+madest of all inflations until, in 1924, there was an upturn in our company.
+
+[Printed page number: 11]
+
+**Verification:** Main English text and photograph caption checked against PDF page 12. **Kurt's exact birth date is 3 July 1917.**
 
 ---
 
 ## PDF page 13
 
-ure style at that time though modest was one of our best periods ever
+Our life style at that time though modest was one of our best periods ever
 because of uncomplicated hiking holidays, the joys of the countryside and
-tours of the Alps. | shall not go into details here about my successful business.
+tours of the Alps. I shall not go into details here about my successful business
 career during the next few years as that is not the idea of this memoir.
 
-Kaete- Lenzerheide 1934 Kaote & Arthur —Nordemey 1927
-(an island in the North Sea)
+[Two photographs, caption:]
+With Brigitte in Adelboden 1929
+
+[Photograph, caption:]
+Kaete – Lenzerheide 1934
+
+[Photograph, caption:]
+Kaete & Arthur – Norderney 1927
+(an Island in the North Sea)
+
+[Printed page number: 12]
+
+**Verification:** Main printed text, photo captions, locations and years visually checked against PDF page 13.
 
 ---
 
