@@ -2,7 +2,7 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, 35, and 36**. **All other pages (3–30, 32–34)** remain raw machine OCR with substantial Hebrew recognition errors. Even reviewed pages may contain uncertain words; check the image for exact quotation. The compilation cover **does not name the recipients** of Käte's letters.
+Visually reviewed main text: **PDF pages 1, 2, 31, 35–36**. **Partial reviews** of the openings on **pages 7 and 34**. **All other pages (3–30, 32–34)** remain raw machine OCR with substantial Hebrew recognition errors. Even reviewed pages may contain uncertain words; check the image for exact quotation. The compilation cover **does not name the recipients** of Käte's letters.
 
 Language: Hebrew **translation of German letters** (see 2006 credits on PDF p.36). Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -158,6 +158,24 @@ Language: Hebrew **translation of German letters** (see 2006 credits on PDF p.36
 ---
 
 ## PDF page 7
+
+> **Partial verification (PDF p. 7).** Date, salutation, opening paragraph and photo caption checked visually. The remaining OCR below is **still raw**. This page was written **5 May 1948**.
+
+### Verified opening
+
+5.5.48
+
+'יקירי,
+
+מכתבי מ-1.5 כמובן עדיין מונח כאן אבל למרות זאת אני כותבת היום שוב כי מכתבך
+מס. 42 מ-16.4 הגיע היום לאחר 18 ימים. הוא כנראה כבר יותר משבוע בארץ כי מאז לא
+נחת שום מטוס. את יכולה לתאר לעצמך כמה שמחתי. הדמעות זלגו כשקראתי את
+מילותיכם החמות שחדרו לעיני כמו דרך ערפל סמיך מאימת הימים האחרונים.
+
+[תצלום: בריגיטה ודויד קלייטון — 1945]
+
+### Machine OCR for the full page (unverified, includes the same opening)
+
 
 מכתבי מ-1.5. כמובן ‎[TY‏ מונח כאן אבל למרות זאת אני כותבת היום שוב כי מכתבך
 
@@ -922,6 +940,28 @@ or ‏איש צבא בריטי . היה ציוני ואף ידע עברית.‎ 
 ---
 
 ## PDF page 34
+
+> **Partial verification (PDF p. 34).** Date and the first paragraph of 23 June's letter checked visually against the scan. The remaining machine OCR below is **not yet checked**; it includes photo captions, footnotes and names.
+
+### Verified opening
+
+23.6.48
+
+'יקירי,
+
+עם העמוד ה-18 של יומני, שנכתב במשך כ-8 שבועות, ברצוני לסיים ולנסות לשלוח אותו
+בדאר אוויר רשום. מאז ה-20.6 גם הדאר בירושלים פועל ולכן שלחנו לכם אתמול מברק
+שמצבנו טוב. מכם עדיין אין סימן חיים אבל ארבעה מכתבים עם בשורות טובות מהבנים
+שמחו אותנו מאוד מאוד. הם נשלחו בסוף אפריל, תחילת יוני ואפילו מה-20.6 והועברו
+בחלקם ע"י מטוס יהודי וחלקם אישית ע"י חיילים. אנחנו נרגשים ביותר איך ששלושתם,
+כולל הלן, כתבו בצורה כה נוגעת ללב, על דאגתם לנו, על מאמציהם לשלוח לנו מזון ובקשתם
+שנבוא אליהם בהקדם. הלן (אשתו של ולטר) מתארת איך שהיא שוכבת בערב בחוץ על כסא
+נוח ומספרת לילדים על ירושלים ואילנה דורשת לראות תמונות שלנו. לזה אני קוראת שלווה
+ואני כל כך שמחה שהם לא סבלו מהמלחמה. רק על אזורים בודדים בארץ פסחה המלחמה
+והרי גם באזור טול כרם זה היה גרוע.
+
+### Machine OCR for the full page (unverified, includes the same opening)
+
 
 23.6.48
 
