@@ -5,7 +5,7 @@ Updated November 2026. Source files are stored in **`Scans/`** and both are vali
 ## The original documents
 
 - `Scans/Arthur-Lazarus-Memoir.pdf` — **20 PDF pages**, English translation of Arthur's memoir signed **7 July 1953** (p.20). English translation credited to Brigitte Paterson, April 2006; photos added by Ilana Maik, April 2006.
-- `Scans/Kaete-Lazarus-Letters-1948.pdf` — **36 PDF pages**, Hebrew compilation of letters dated 1 May–23 June 1948, plus photographs, captions and editorial material. The cover attributes the letters to Käte but **does not identify their recipient(s)**.
+- `Scans/Kaete-Lazarus-Letters-1948.pdf` — **36 PDF pages**, a Hebrew translation of letters originally in German, dated 1 May–23 June 1948, plus photographs, captions and editorial material (translation and editorial credits on PDF p.36). The cover attributes the letters to Käte but **does not identify their recipient(s)**.
 
 ## Layer 2: transcription coverage
 
