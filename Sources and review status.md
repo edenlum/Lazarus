@@ -12,7 +12,7 @@ Updated November 2026. Source files are stored in **`Scans/`** and both are vali
 | Source | PDF pages | Visually reviewed main text | Raw OCR / pending |
 |---|---:|---|---|
 | Arthur memoir | 20 | **1–3, 5–9, 14–20** (15 pages) | **4, 10–13** (5 pages) |
-| Käte letters | 36 | **1, 2, 31, 35** (4 pages) | **3–30, 32–34, 36** (32 pages) |
+| Käte letters | 36 | **1, 2, 31, 35–36** (5 pages) | **3–30, 32–34, 36** (32 pages) |
 
 **19 of 56 pages have received visual main-text review**, with 37 still requiring it. Review does not guarantee every difficult word, image insert, facsimile, translation or historical claim is independently verified.
 
