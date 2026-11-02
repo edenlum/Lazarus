@@ -32,6 +32,7 @@ A working timeline based on the **scanned documents**, not an independent histor
 
 - **1941–1949** — Arthur says he and Käte lived in [[Jerusalem]], having moved from [[Tel Aviv]] at Brigitte's request (memoir p.17).
 - **1948, 1 May** — Käte describes the lack of outgoing mail and separation from family (letters PDF p.2).
+- **1948, 5 May** — A letter dated 16 April finally reaches Käte in Jerusalem after 18 days; she describes the emotional impact of reading the family's words (letters p.7, opening paragraph visually checked).
 - **1948, 15 June** — Käte reports enormous relief on receiving a family telegram and fear that the fighting might resume (letters p.31).
 - **1948, 23 June** — Last dated letter in this compilation; she asks loved ones to preserve her diary and letters (letters pp.34–35).
 - **1950 / 1951** — A house photograph in [[Shaar Hefer]] is captioned **1950** in Arthur's memoir (p.18) and **1951** in Käte's letters compilation (p.35). Same-looking image, *conflicting date captions*; see [[Photographs and caption conflicts]].
