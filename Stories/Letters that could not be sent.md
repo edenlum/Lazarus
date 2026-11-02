@@ -16,6 +16,6 @@ This is the emotional arc visible in the verified pages: **isolation → uncerta
 
 ## Source trail
 
-- `Scans/Kaete-Lazarus-Letters-1948.pdf`, **PDF p.2** (1 May), **p.31** (15 June), **p.35** (23 June).
+- `Scans/Kaete-Lazarus-Letters-1948.pdf`, **PDF p.2** (1 May), **p.7 opening** (5 May), **p.31** (15 June), **p.35** (23 June).
 - Those pages have received visual transcription review. The surrounding OCR is not all verified.
 - [[Letters from Jerusalem 1948]] · [[1948]] · [[Käte Lazarus]]
