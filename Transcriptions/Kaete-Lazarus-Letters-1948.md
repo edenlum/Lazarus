@@ -2,9 +2,9 @@
 
 > **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
 
-Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, and 35**. **All other pages (3–30, 32–34, 36)** remain raw machine OCR with substantial Hebrew recognition errors. Even reviewed pages may contain uncertain words; check the image for exact quotation. The compilation cover **does not name the recipients** of Käte's letters.
+Visually reviewed and substantially corrected: **PDF pages 1 (cover), 2, 31, 35, and 36**. **All other pages (3–30, 32–34)** remain raw machine OCR with substantial Hebrew recognition errors. Even reviewed pages may contain uncertain words; check the image for exact quotation. The compilation cover **does not name the recipients** of Käte's letters.
 
-Language: Hebrew. Pages below refer to **PDF page numbers**, including cover pages.
+Language: Hebrew **translation of German letters** (see 2006 credits on PDF p.36). Pages below refer to **PDF page numbers**, including cover pages.
 
 ## PDF page 1
 
@@ -988,23 +988,21 @@ New Yorker אולי זה יתן לדויד (קלייטון) הזדמנויות �
 
 ## PDF page 36
 
-‎AND‏ שנים מאוחר יותר , עם נכדתה הרביעית ג'ניפר קלייטון
+[תצלום: קטה עם ילדה]
+כמה שנים מאוחר יותר, עם נכדתה הרביעית ג'ניפר קלייטון
 
-‏עם סיום העריכה ולקראת הדפסה ברצוני להודות לדודתי, בריגיטה-לצרוס-ק:
-שכתוב המכתבים ורוב ההערות וההארות בשולי העמודים .לדוד לוקש מכפרי על התרגום.
-מגרמנית לעברית , לידידנויוסי בר-טוב עבור מקצת מהצילומים ולשכננו אלכס בק עבור
+עם סיום העריכה ולקראת הדפסה ברצוני להודות לדודתי, בריגיטה-לצרוס-קלייטון-פטרסון על
+שכתבה המכתבים ורוב ההערות וההארות בשולי העמודים. לדוד לוקש מפרי על התרגום
+מגרמנית לעברית, לידידנו יוסי בר-טוב עבור מקצת מהצילומים ולשכננו אלכס בק עבור
+הספרים על ירושלים מהם דליתי תמונות רבות נוספות. ואחרון אחרון חביב לבעלי זרח על
+שעות המחשב הרבות שהקדיש לסריקת הצילומים ושיבוצם בסיפור משפחתי זה.
 
-‏הספרים על ירושלים מהם דליתי תמונות רבות נוספות. ואחרון אחרון חביב לבעלי זרח ‎Sy‏
+אילנה-לצרוס-מאיק נכדתה של קטה לצרוס
+אוגוסט 2006
 
-‏שעות המחשב הרבות שהקדיש לסריקת ה:
+[Printed page number: 35]
 
-‏ו-פטרסן על
-
-‏ילומים ושיבוצם בסיפור משפחתי זה.
-
-‏אילנה-לצרוס-מאיק נכדתה של קטה ‎ony‏
-‏אוגוסט 2008
-
-‎35
+**Verification and provenance:** Main Hebrew text and caption visually checked against PDF page 36. **Crucial:** the compilation explicitly credits a translation **from German to Hebrew**; the Hebrew wording is therefore not proven to be the 1948 letters' original language. The editor names Brigitte with the combined surnames *Lazarus–Clayton–Paterson*, resolving the earlier apparent mismatch between 1957 and 2006 names. The editor identifies herself as Käte's granddaughter, Ilana Lazarus Maik (August 2006). Names in the printed credits remain subject to ordinary transcription verification.
 
 ---
+
