@@ -14,7 +14,7 @@ A page-by-page **raw machine OCR draft for all 56 pages has been generated**, pr
 The English transcription is partially readable but contains errors. The Hebrew letters contain substantial OCR artifacts (misrecognized Hebrew, punctuation, and stray Latin characters); consider them *unverified text*, not publication-ready transcripts. Photographs, charts, marginalia, and document facsimiles still require visual review.
 
 The two files intended for this repository are:
-- `Transcriptions/Arthur-Lazarus-Memoir.md` (currently placeholder; replace with OCR draft when uploaded)
+- `Transcriptions/Arthur-Lazarus-Memoir.md` (raw OCR draft uploaded; human review pending)
 - `Transcriptions/Kaete-Lazarus-Letters-1948.md` (currently placeholder; replace with OCR draft when uploaded)
 
 ## Evidence rules
