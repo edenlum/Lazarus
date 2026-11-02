@@ -1,6 +1,6 @@
 # Letters from Jerusalem 1948
 
-**Writer:** [[Käte Lazarus]]; **recipient:** [[Arthur Lazarus]], according to the compilation's cover. Dates: **1 May–23 June 1948**.
+**Writer:** [[Käte Lazarus]]. **Recipients:** not identified on the compilation cover; the letters address loved ones outside Jerusalem, while Käte refers to “Dad” as present with her. **Do not identify Arthur as the addressee.** Dates: **1 May–23 June 1948**.
 
 The emotional center of the verified material is family separation. On **1 May**, Käte describes spring blossoms and then reveals how much it hurts that she has no news of her children and grandchildren. On **15 June**, a telegram telling her they are safe produces tremendous relief. On **23 June**, after some supplies and mail return, she ends with a wish that terrible times should never again interrupt their correspondence. See [[Letters that could not be sent]].
 
