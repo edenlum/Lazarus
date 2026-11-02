@@ -1,8 +1,8 @@
 # Arthur Lazarus — Memoir of My Life
 
-> **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+> **PARTIALLY VERIFIED TRANSCRIPTION.** Main text on pages listed below has been visually reviewed against the scan; remaining pages are raw OCR and may contain errors. Small embedded facsimiles require independent checking. Treat the 2006 English translation as the textual source, not the original 1953 German manuscript.
 
-Verified main text: PDF pages **2–3, 5–9, and 14–20** (other pages remain raw OCR). All remaining pages retain raw machine OCR and require visual checking. Embedded facsimile handwriting is not transcribed.
+Visually reviewed main text: **PDF pages 1–3, 5–9, 14–20**. Raw OCR still on **pages 4 and 10–13**. Some reproduced facsimiles are not independently transcribed. Photo captions and difficult historical spellings may require later follow-up.
 
 Language: English. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -14,7 +14,9 @@ ARTHUR LAZARUS
 
 28.01.1886 — 3.01.1957
 
-91948
+[Portrait caption: 9/1948]
+
+**Verification:** Cover typography, dates and photograph caption visually reviewed.
 
 ---
 
