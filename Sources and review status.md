@@ -9,7 +9,7 @@ The original PDF scans are authoritative, and the user is uploading these separa
 
 ## OCR status — November 2026
 
-A page-by-page **raw machine OCR draft for all 56 pages has been generated**, preserving the original language and including explicit PDF page numbers. It is currently available as a downloadable ZIP attached to the ChatGPT conversation, **not yet transferred into this GitHub repository**.
+A page-by-page **raw machine OCR draft for all 56 pages has been generated**, preserving the original language and including explicit PDF page numbers. Both raw OCR drafts are now committed to this GitHub repository, replacing the placeholders.
 
 The English transcription is partially readable but contains errors. The Hebrew letters contain substantial OCR artifacts (misrecognized Hebrew, punctuation, and stray Latin characters); consider them *unverified text*, not publication-ready transcripts. Photographs, charts, marginalia, and document facsimiles still require visual review.
 
