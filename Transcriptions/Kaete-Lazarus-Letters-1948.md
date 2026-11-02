@@ -1,6 +1,8 @@
 # Käte Lazarus — 1948 letters
 
-> **RAW MACHINE OCR — NOT VERIFIED.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+> **PARTIALLY VERIFIED OCR — NOT A FULL CHECKED EDITION.** This is a draft transcription from the original image-only scan, not a faithful checked edition. Characters, names, dates, punctuation, footnotes, right-to-left order, and photo captions may contain errors. Refer to the scan before citing or publishing.
+
+Verified: **PDF page 1 (cover)**. Pages 2–36 remain unverified machine OCR and contain substantial Hebrew recognition errors; do not quote them as checked text.
 
 Language: Hebrew. Pages below refer to **PDF page numbers**, including cover pages.
 
@@ -8,14 +10,18 @@ Language: Hebrew. Pages below refer to **PDF page numbers**, including cover pag
 
 קטה לצרוס לבית וולף
 
-14.10.1971 - 3
+15.5.1893 – 14.10.1971
 
-1947  םילשורי‎
+[תצלום: קטה לצרוס]
+
+ירושלים 1947
 
 אסופת מכתבים
 מ- 1.5.1948 עד 23.6.1948
 שנכתבו על ידי קטה לצרוס
 בזמן המצור על ירושלים
+
+**אימות:** הטקסט המודפס והתאריך בכריכה נבדקו מול צילום עמוד PDF 1. הכיתוב על התצלום הועתק; אין זיהוי פנים עצמאי.
 
 ---
 
