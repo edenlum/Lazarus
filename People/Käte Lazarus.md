@@ -2,26 +2,22 @@
 
 Also written **Kaete**, **Kate**, **קטה לצרוס**, and **קטה** in the sources.
 
-**15 May 1893 – 14 October 1971**, according to the cover of the letters compilation (PDF p.1).
+**15 May 1893 – 14 October 1971**, per the cover of the letters compilation (PDF p.1).
 
-## Family
+Married [[Arthur Lazarus]] on 2 September 1913; mother of [[Walter Lazarus]], [[Kurt Lazarus]], and [[Brigitte Lazarus]] (Arthur memoir pp.6, 9, 12, 14). [[Hans Wolff]] was her brother, killed in January 1915 (memoir p.8).
 
-Married [[Arthur Lazarus]] on **2 September 1913**; mother of [[Walter Lazarus]], [[Kurt Lazarus]], and [[Brigitte Lazarus]] (Arthur memoir pp.6, 9, 12, 14). [[Hans Wolff]] was her brother, killed in January 1915 (Arthur memoir p.8).
+Arthur writes about their years in [[Dahlem]], leaving Germany in November **1936**, and later life in [[Jerusalem]] (memoir pp.14–18).
 
-Käte and Arthur lived in [[Dahlem]] from 1922 until the family's departure from Germany in **November 1936** (memoir pp.14, 17). The family later lived in [[Jerusalem]].
+## May–June 1948, in her own account
 
-## Her words during the siege
+The letters record the strain of being **unable to contact children and grandchildren** outside besieged Jerusalem. On 1 May, Käte writes of a bright spring and an outgoing letter that cannot be mailed (PDF p.2). On 15 June a telegram confirming family safety brings relief (p.31). On 23 June she mentions fish, vegetables, oranges and a cinema outing and asks that her diary be preserved (p.35).
 
-In her **1 May 1948** letter, she describes a beautiful spring day while the postal service has stopped; what weighs on her most is having no contact with her children and grandchildren. She reminds herself never to give up hope (letters PDF p.2).
+**Addressees are not identified on the cover.** Käte refers to "Dad" as in Jerusalem with her; do not describe these as letters to Arthur. See [[Letters that could not be sent]].
 
-On **15 June**, her greatest relief comes not from a military development but a telegram saying family members at Shaar Hefer are well. Even after this news, she longs to see them (letters p.31).
+## Provenance and original language
 
-On **23 June**, after an interruption in the mail and shortages, she reports modest improvements—fish, vegetables, even an orange—and asks her loved ones to preserve the diary and correspondence (letters pp.34–35). See [[Letters that could not be sent]].
+The **Hebrew scanned book is a 2006 family-produced translation/compilation of German letters**, not necessarily Käte's original German manuscript. On **PDF p.36**, editor [[Ilana Lazarus Maik]] thanks her aunt [[Brigitte Lazarus]] for transcribing/copying letters and explanatory annotations and credits another contributor for **translation from German to Hebrew**. Later photos and footnotes appear alongside the 1948 text.
 
-## Historical/editorial caution
-
-The document is a **later typed/illustrated compilation** of dated letters, not necessarily the physical letters as sent. Photographs from **1945, 1947, 1950 and 1951** appear among the 1948 text; these are not all contemporary images. Modern captions and footnotes may be editorial.
-
-Sources: [[Kaete-Lazarus-Letters-1948]] (PDF pp.1–2, 31, 34–35); [[Arthur-Lazarus-Memoir]] (PDF pp.6, 14–20).
+This is vital when quoting: the currently accessible wording is a **Hebrew translation** of Käte's original, not a verified original-language quotation.
 
 [[Arthur Lazarus]] · [[1948]] · [[Letters from Jerusalem 1948]]
