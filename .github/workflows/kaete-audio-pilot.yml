@@ -1,0 +1,41 @@
+name: Generate Käte Hebrew audiobook pilot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/kaete-audio-pilot.yml"
+      - "scripts/make_kaete_audio_sample.py"
+      - "docs/audio/kaete-1948-05-05-text.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install TTS dependencies
+        run: |
+          python -m pip install --disable-pip-version-check edge-tts pydub
+      - name: Generate Hebrew MP3 sample
+        run: python scripts/make_kaete_audio_sample.py
+      - name: Store audio file in website
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/audio/kaete-1948-05-05.mp3
+          git diff --cached --quiet || git commit -m "Add Hebrew narrated letter sample (Hila neural voice)"
+          git push
+      - name: Keep downloadable run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: kaete-hebrew-audiobook-pilot
+          path: docs/audio/kaete-1948-05-05.mp3
+          if-no-files-found: error
