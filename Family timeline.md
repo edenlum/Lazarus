@@ -13,8 +13,8 @@ A working timeline based on the **scanned documents**, not an independent histor
 - **1914, 22 September** — Birth of [[Walter Lazarus]] (memoir p.9).
 - **1915, 14 January** — [[Hans Wolff]], Käte's brother, is killed during World War I (memoir p.8).
 - **1915, April** — Arthur is called into the artillery; Käte remains in Berlin with baby Walter (memoir p.9).
-- **1917, July 3** — Birth of [[Kurt Lazarus]] (memoir p.12, **still unverified OCR**).
-- **1918, November** — Arthur returns to Berlin at the end of the war (memoir p.12, **still unverified OCR**).
+- **1917, July 3** — Birth of [[Kurt Lazarus]] (memoir p.12, visually checked).
+- **1918, November** — Arthur returns to Berlin at the end of the war (memoir p.12, visually checked).
 
 ## Years in Berlin
 
