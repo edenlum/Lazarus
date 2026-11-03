@@ -1,6 +1,8 @@
 # Lazarus family history
 
-A **private, evolving, Obsidian-compatible family-history vault**, built from original scanned documents, corrected transcriptions and interlinked research notes.
+An **evolving, Obsidian-compatible family-history vault**, built from original scanned documents, corrected transcriptions and interlinked research notes.
+
+> **PRIVACY:** This repository is presently **PUBLIC** to host GitHub Pages. The scanned PDFs and notes are consequently public. To make the family archive private, separate it from the public website repository; see [[Layer 4 ideas]] and `PUBLISHING.md`.
 
 ## Start here
 
@@ -13,13 +15,16 @@ A **private, evolving, Obsidian-compatible family-history vault**, built from or
 - [[Photographs and caption conflicts]] — image index and discrepancies
 - [[Sources and review status]] — what has actually been checked
 - [[Review queue]] — open questions for future documents
+- [[A city without mail]] — correspondence and communication through the siege
+- [[The ordinary things that survived the siege]] — human-scale moments in Käte's writing
+- [[Layer 4 ideas]] — ranked audio, website and film experiences
 
 ## Layers
 
 - `Scans/` — **both original PDFs are uploaded and intact** (20-page memoir, 36-page letters). Source of truth.
-- `Transcriptions/` — 56 page-indexed text blocks; **25 pages' main text visually reviewed** (the complete 20-page English memoir and 5 pages of Käte's Hebrew collection), plus partial checks on two additional Hebrew pages. Unchecked OCR sections and facsimiles remain.
+- `Transcriptions/` — 56 page-indexed sections, now **all 56 pages given a first visual main-text pass**; exact quotations, difficult names and handwritten/German facsimile inserts still need independent editorial proofreading. See [[Sources and review status]].
 - `People/`, `Years/`, `Places/`, `Stories/` — flexible interlinked Markdown notes, not a rigid database.
-- `docs/` — the **curated mobile website** (Layer 4), separate from the private vault; activate GitHub Pages using [PUBLISHING.md](PUBLISHING.md).
+- `docs/` — the **curated mobile website** (Layer 4), already live at [edenlum.github.io/Lazarus](https://edenlum.github.io/Lazarus/), including [Hebrew audio A/B](https://edenlum.github.io/Lazarus/audio-demo.html). Its files are separate from the research notes, but the **repository itself is currently public**.
 
 ## Important corrections discovered during verification
 
