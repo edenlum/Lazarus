@@ -1,44 +1,51 @@
 # Sources and review status
 
-Updated November 2026. Source files are stored in **`Scans/`** and both are valid PDFs.
+Updated 3 November 2026. All 56 source PDF pages have received **one visual main-text transcription pass**. This is **not** a critical edition or independent verification of each historical claim.
 
-## The original documents
+## Original sources
 
-- `Scans/Arthur-Lazarus-Memoir.pdf` — **20 PDF pages**, English translation of Arthur's memoir signed **7 July 1953** (p.20). English translation credited to Brigitte Paterson, April 2006; photos added by Ilana Maik, April 2006.
-- `Scans/Kaete-Lazarus-Letters-1948.pdf` — **36 PDF pages**, a Hebrew translation of letters originally in German, dated 1 May–23 June 1948, plus photographs, captions and editorial material (translation and editorial credits on PDF p.36). The cover attributes the letters to Käte but **does not identify their recipient(s)**.
+- `Scans/Arthur-Lazarus-Memoir.pdf` — 20 scanned pages. Arthur's memoir signed **7 July 1953**, here in an **English translation (2006)** with family photographs added later.
+- `Scans/Kaete-Lazarus-Letters-1948.pdf` — 36 scanned pages. A **Hebrew translation of originally German letters** from 1 May–23 June 1948, in a 2006 family compilation including photographs and explanatory notes.
 
-## Layer 2: transcription coverage
+These are the primary sources. The scans remain unchanged.
 
-| Source | PDF pages | Visually reviewed main text | Raw OCR / pending |
+## Layer 2: where we stand
+
+| Source | PDF pages | Initial main-text visual pass | Still to review |
 |---|---:|---|---|
-| Arthur memoir | 20 | **1–20** (20 pages) | Main text complete; embedded German facsimiles and handwriting remain to check |
-| Käte letters | 36 | **1, 2, 31, 35–36** (5 pages) | **3–30, 32–34** (31 pages) |
+| Arthur memoir | 20 | **20 / 20** | Small original German facsimiles, handwritten inserts, translation provenance; exact quotations deserve final proofing |
+| Käte letters | 36 | **36 / 36** | **Second editorial proofreading**, especially difficult passages and names on pp. 19, 22, 25–30 and 34; original German letters not yet in archive |
 
-**25 of 56 pages have received visual main-text review**, with 31 still requiring it. Käte letters **pages 7 and 34** additionally have **partially verified opening paragraphs**; the rest of those pages remain raw OCR. Review does not guarantee every difficult word, image insert, facsimile, translation or historical claim is independently verified.
+**56 / 56 pages have been processed through an initial image-assisted transcription review.** Old raw OCR artifacts have been replaced with coherent, page-labeled text. This does *not* guarantee word-for-word accuracy. Some sentences are flagged within page-specific verification notes, and the distinction between original letters and later editorial annotations still needs careful treatment.
 
-The typed German death notice on Arthur memoir p.20 was also read, but may warrant specialist checking. Arthur's main narrative and principal captions were reviewed on every page (including PDF pp. 4, 10–13 in this pass). The handwriting reproduced in other document facsimiles has not been independently transcribed.
+The compilation has captions and photos from periods **other than 1948**, e.g. 1945, 1950 and 1951. These cannot be assumed contemporary evidence of events in the letters.
 
-## Critical corrections
+## Confirmed corrections and uncertainties
 
-- Arthur's father [[Aron Uriel Lazarus]] died in **1935**, not 1936 (memoir p.3, source image checked).
-- Family emigration was **November 1936** after **1933 planning and a September 1933 exploratory trip** (memoir p.17).
-- Neither the letter cover nor the visually checked May/June text establishes Arthur as the recipient. Arthur is referred to as "Dad" and seems to have been in Jerusalem with Käte (letters pp.1–2, 35). **Exact addressees unresolved.**
-- The house photo in [[Shaar Hefer]] is captioned **1950** in Arthur's memoir p.18 and **1951** in the letter compilation p.35.
-- The 1957 death notice names **BRIGITTE CLAYTON**; the English memoir credits **Brigitte Paterson** in 2006. The letters' 2006 colophon explicitly names **Brigitte Lazarus–Clayton–Paterson**, connecting the surnames (memoir p.20; letters p.36). Dates of name changes remain unknown.
+- [[Aron Uriel Lazarus]] died in **1935**, not 1936 (memoir PDF p.3).
+- [[Arthur Lazarus]] began emigration preparations in **1933** and dates his family's departure to **November 1936** (memoir p.17).
+- Käte's letters are **not proven to be addressed to Arthur**; he seems to be in Jerusalem with her. Original German letters/envelopes would help determine the recipient(s).
+- The Shaar Hefer house image is dated **1950** in Arthur's memoir (p.18), **1951** in the letters compilation (p.35). Both captions retained.
+- In the 2006 letters colophon, Brigitte is explicitly called **Brigitte Lazarus–Clayton–Paterson**, connecting the differing surnames printed elsewhere, though dates of changes remain unknown (letters p.36).
+- Several dated letters describe reported wartime events, casualty counts and political interpretations; these are **testimony**, not an external historical fact-check.
+- The 2006 Hebrew translator and later editorial contributors must be distinguished from Käte's original German voice.
 
-## Interpretive rules
+## Editorial workflow for future documents
 
-1. Historical evidence = image and original wording in `Scans/` and checked transcription, with PDF page number.
-2. Transcription may be wrong; **unchecked OCR is not citable verbatim**.
-3. Person pages and stories are secondary, evolving *syntheses*; they cannot independently corroborate each other.
-4. Distinguish **letter date**, **photo date**, **photo-caption editor**, **memoir composition date (1953)**, and **English translation/photo compilation (2006)**.
-5. Personal judgments, political claims and casualty estimates in the memoir/letters are **attributed testimony**, not objectively verified historical facts.
-6. Uncertainty should remain visible instead of being silently guessed away.
+1. Scan the original and keep it unchanged.
+2. Create a page-numbered transcription with explicit uncertainty where the image is hard to read.
+3. Recheck exact quotations, dates and named people against the page image, ideally with a second reader.
+4. Add interlinked notes under `People/`, `Stories/`, `Years/` and `Places/`, each citing the primary PDF page.
+5. Never treat a generated summary, translation or voice performance as independent source evidence.
 
-## Website publication
+## Layer 3 and Layer 4
 
-The curated, mobile-friendly Layer-4 site is in `docs/` and the setup instructions are in `PUBLISHING.md`. **GitHub Pages is not enabled yet**; `docs/` is deliberately separate from `Scans/`, `Transcriptions/`, and the full private vault. Publishing a page must not automatically expose new private notes.
+New Layer 3 notes: [[A city without mail]] and [[The ordinary things that survived the siege]]. An organized set of output ideas lives at [[Layer 4 ideas]].
 
-## Next priorities
+A mobile website is **live** via GitHub Pages in `docs/`, including a Hebrew narrator A/B test at `docs/audio-demo.html`. Its public content is curated and should not be synchronized automatically with private materials.
 
-See [[Review queue]] for remaining OCR pages, disputed relationships, and editorial-photo questions.
+## Privacy warning
+
+**The repository `edenlum/Lazarus` is currently PUBLIC**, so its original scans and research notes are also public, not just the Pages website. For a private family archive, separate Layers 1–3 into a private repository and publish the curated public `docs/` site from a separate public repository. The `noindex` instruction does not provide access control.
+
+See [[Review queue]] for open identity questions and second-proofreading priorities.
