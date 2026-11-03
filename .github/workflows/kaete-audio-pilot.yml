@@ -34,7 +34,17 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/audio/kaete-1948-05-05.mp3
           git diff --cached --quiet || git commit -m "Add Hebrew narrated letter sample (Hila neural voice)"
-          git push
+          # The repository may have advanced during TTS synthesis.
+          # Rebase only this generated file's new commit; never force-push.
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
       - name: Keep downloadable run artifact
         uses: actions/upload-artifact@v4
         with:
