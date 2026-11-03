@@ -1,0 +1,49 @@
+name: Generate Meta MMS Hebrew audiobook comparison
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/kaete-mms-audio.yml"
+      - "scripts/make_kaete_audio_mms.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install CPU runtime, voice model requirements and FFmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install --disable-pip-version-check torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --disable-pip-version-check transformers==4.45.2 pydub scipy edge-tts
+      - name: Generate Meta MMS Hebrew comparison
+        run: python scripts/make_kaete_audio_mms.py
+      - name: Publish separate audio sample
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/audio/kaete-1948-05-05-mms.mp3
+          git diff --cached --quiet || git commit -m "Add Meta MMS Hebrew TTS comparison audio"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 3
+          done
+          exit 1
+      - name: Downloadable A/B artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: kaete-mms-hebrew-comparison
+          path: docs/audio/kaete-1948-05-05-mms.mp3
+          if-no-files-found: error
