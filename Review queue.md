@@ -17,9 +17,9 @@ Open, source-specific questions for future family documents. This is a **researc
 
 **Arthur memoir:** printed English narrative and primary captions **all 20 PDF pages reviewed**. Some embedded handwritten or German-language certificates/facsimiles remain untranscribed.
 
-**Käte letters:** PDF **3–30 and 32–34** (31 pages) still require full visual review. The **opening paragraphs on pages 7 and 34** have been manually checked, but the rest of those pages remains unverified OCR. Prioritize the remaining Hebrew text and photo captions.
+**Käte letters:** all 36 printed pages have undergone an **initial visual review** and page-labeled OCR cleanup. Next: **independent second proofreading**, especially dense or transcription-sensitive text and names on PDF **pp. 19, 22, 25–30, 34**. Source notes now mark difficult readings; check each before verbatim publication. Original German letters are not yet available.
 
-Also review all small facsimiles, photographs and historic German spelling. For checked pages, re-read uncertain proper names before using them in a publication.
+Review all small facsimiles, photographs, historic German spelling, editorial footnotes and oral-family identity claims. **A first visual pass is not equivalent to publication-quality proofreading.**
 
 ## Layer 3 follow-ups
 
@@ -27,5 +27,7 @@ Also review all small facsimiles, photographs and historic German spelling. For 
 - [ ] Add more person/place/year notes as new source evidence demands.
 - [ ] Link captions and date ranges to original image files once photographs are separately extracted.
 - [ ] Ensure stories distinguish direct quotation, translation, retrospective recollection and inference.
+- [ ] Test the two Hebrew TTS voices with native listeners and try a model with stronger expressive direction; see [[Layer 4 ideas]].
+- [ ] Keep public-site materials separate from a private family archive. Current repository is **PUBLIC**.
 
 See [[Sources and review status]].
