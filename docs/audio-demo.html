@@ -45,13 +45,23 @@
       <p class="lede">5 במאי 1948. ירושלים מנותקת. קטה מקבלת סוף־סוף מכתב מבני משפחתה. לרגע, בתוך המלחמה, המילים עצמן משיבות מעט שקט.</p>
     </header>
 
-    <section class="player" aria-label="נגן ההקראה">
-      <div class="player-label">פרק ניסיון · מכתב מ־5.5.1948</div>
-      <h2>קטה לצרוס — מכתב מירושלים</h2>
-      <audio controls preload="metadata" src="./audio/kaete-1948-05-05.mp3">
-        הדפדפן לא תומך בניגון קובצי אודיו.
-      </audio>
-      <p>קריינות בינה מלאכותית בעברית · הקול איננו קולה המקורי של קטה</p>
+    <section class="player" aria-label="השוואת מודלים לקריינות">
+      <div class="player-label">מעבדת קול · מכתב מ־5.5.1948</div>
+      <h2>אותן מילים, שני מודלי קול</h2>
+      <p>השמיעו את שתי ההקלטות זו אחר זו. כל אחת מבוססת על אותו טקסט עברי; ההבדל הוא במודל הקול ובקצב הקריינות.</p>
+
+      <div style="margin:20px 0 24px;padding:20px;border:1px solid #aeb6a8;border-radius:10px;background:#ffffff12">
+        <strong>אפשרות א׳ — Microsoft Hila Neural</strong>
+        <div style="font-size:12px;color:#d7dacb">הקריינות הראשונה · קצב מעט איטי ופסק זמן בין פסקאות</div>
+        <audio controls preload="metadata" src="./audio/kaete-1948-05-05.mp3" aria-label="ניגון אפשרות א"></audio>
+      </div>
+      <div style="margin:20px 0 12px;padding:20px;border:1px solid #aeb6a8;border-radius:10px;background:#ffffff12">
+        <strong>אפשרות ב׳ — Meta MMS Hebrew (VITS)</strong>
+        <div style="font-size:12px;color:#d7dacb">מודל עברי נפרד, פתוח למחקר · גרסת השוואה ניסיונית</div>
+        <audio controls preload="metadata" src="./audio/kaete-1948-05-05-mms.mp3" aria-label="ניגון אפשרות ב"></audio>
+      </div>
+      <p>שום קול כאן אינו הקלטה של קטה עצמה. שני הקבצים ממחישים ביצועים אפשריים של תרגום המכתב לעברית, ואינם בהכרח באיכות אולפן.</p>
+      <p style="font-size:11px"><a style="color:#fff2d8" href="https://huggingface.co/facebook/mms-tts-heb" rel="noopener noreferrer" target="_blank">Meta MMS Hebrew</a> מופץ ברישיון CC BY-NC 4.0 (שימוש לא־מסחרי, עם קרדיט). יש לבחון את הגיית השמות והקצב בהאזנה.</p>
     </section>
 
     <section class="transcript" aria-label="טקסט מלווה לקריינות">
@@ -70,5 +80,12 @@
     <aside class="note"><strong>על המקור:</strong> קטה כתבה את המכתבים במקור בגרמנית. ההקראה מבוססת על התרגום המשפחתי לעברית שפורסם בשנת 2006, ולא על כתב היד הגרמני. הפרויקט נועד להנגיש את הקול הכתוב — לא להתחזות להקלטה היסטורית.</aside>
     <p class="foot">לנוחות ההאזנה ניתן לפתוח את העמוד בטלפון וללחוץ על כפתור ההפעלה. <a href="./">חזרה לאתר המשפחה</a></p>
   </main>
+<script>
+  // Prevent overlapping voices when comparing two separate recordings.
+  const players = Array.from(document.querySelectorAll("audio"));
+  players.forEach(audio => audio.addEventListener("play", () => {
+    players.forEach(other => { if (other !== audio) other.pause(); });
+  }));
+</script>
 </body>
 </html>
